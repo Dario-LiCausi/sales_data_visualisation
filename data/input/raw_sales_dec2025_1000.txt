@@ -1,0 +1,882 @@
+transaction_id,customer_name,product_name,category,quantity,unit_price,branch,payment_type,card_number,timestamp
+5001,John Smith,Google Pixel 10 Pro,Phones,1,999,Camden,Card,56306192.0,10-12-25 09:03
+5001,John Smith,Dyson V16 Vacuum,Appliances,2,699,Camden,Card,56306192.0,10-12-25 09:03
+5002,Johnny Reed,PlayStation 5 Pro Console,Gaming,2,699,Oxford,Debit,50761638.0,2025/12/10 09:10
+5002,Johnny Reed,PlayStation 5 Pro Console,Gaming,2,699,Oxford,Debit,50761638.0,2025/12/10 09:10
+5002,Johnny Reed,Dell XPS 14 OLED 2025,Laptops,1,1899,Oxford,Debit,50761638.0,2025/12/10 09:10
+5002,Johnny Reed,MacBook Air M4,Laptops,2,1599,Oxford,Debit,50761638.0,2025/12/10 09:10
+5003,Mark Davies,Dyson V16 Vacuum,Appliances,1,699,Soho,Card,7638071.0,10/12/2025 09:19
+5003,Mark Davies,Samsung Galaxy S25 Ultra,Phones,2,1199,Soho,Card,7638071.0,10/12/2025 09:19
+5003,Mark Davies,MacBook Air M4,Laptops,1,1599,Soho,Card,7638071.0,10/12/2025 09:19
+5003,Mark Davies,Sony WH‑1000XM7,Audio,2,399,Soho,Card,7638071.0,10/12/2025 09:19
+5004,Tom Brown,iPhone 17 Pro Max,Phones,1,1299,SoHo,Cash,,2025/12/10 09:23
+5004,Tom Brown,Elgato 4K Streaming Card,Accessories,2,249,SoHo,Cash,,2025/12/10 09:23
+5004,Tom Brown,Google Pixel 10 Pro,Phones,1,999,SoHo,Cash,,2025/12/10 09:23
+5005,Mark Davies,Dyson V16 Vacuum,Appliances,2,699,Ealing,Cash,,2025-12-10 09:28
+5005,Mark Davies,USB‑C 240W Cable,Accessories,2,29,Ealing,Cash,,2025-12-10 09:28
+5005,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Cash,,2025-12-10 09:28
+5005,Mark Davies,Google Pixel 10 Pro,Phones,2,999,Ealing,Cash,,2025-12-10 09:28
+5006,Emily Clark,Elgato 4K Streaming Card,Accessories,1,249,Ealing,Debit,60498498.0,2025/12/10 09:31
+5006,Emily Clark,Nintendo Switch 2,Gaming,2,399,Ealing,Debit,60498498.0,2025/12/10 09:31
+5006,Emily Clark,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Ealing,Debit,60498498.0,2025/12/10 09:31
+5007,Johnny Reed,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Cash,,2025/12/10 09:32
+5007,Johnny Reed,Sony A7V Camera,Cameras,1,2499,Camden,Cash,,2025/12/10 09:32
+5007,Johnny Reed,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Cash,,2025/12/10 09:32
+5007,Johnny Reed,Canon EOS R9,Cameras,1,1999,Camden,Cash,,2025/12/10 09:32
+5008,John Smith,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Card,90854418.0,10-12-25 09:37
+5008,,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Card,,10-12-25 09:37
+5008,John Smith,Apple Watch X,Wearables,2,799,Ealing,Card,90854418.0,10-12-25 09:37
+5009,Jacob Stone,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Debit,1325072.0,10-12-25 09:43
+5010,Alice Moore,Bose QuietComfort Ultra,Audio,2,349,Camden,Cash,,10/12/2025 09:50
+5010,Alice Moore,MacBook Air M4,Laptops,1,1599,Camden,Cash,,10/12/2025 09:50
+5011,John Smith,Nvidia RTX 5090 GPU,PC Components,2,1999,Ealing,Cash,,2025/12/10 09:57
+5011,John Smith,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Cash,,2025/12/10 09:57
+5012,,Sony A7V Camera,Cameras,2,2499,Oxford,Card,91561923.0,10/12/2025 10:04
+5013,Alice Moore,Dyson V16 Vacuum,Appliances,1,699,Soho,Cash,,10-12-25 10:10
+5014,Emily Clark,iPhone 17 Pro Max,Phones,1,1299,Ealing,Cash,,10/12/2025 10:17
+5015,Johnny Reed,Bose QuietComfort Ultra,Audio,2,349,Ealing,Debit,62858216.0,10-12-25 10:21
+5015,Johnny Reed,Sony WH‑1000XM7,Audio,1,399,Ealing,Debit,62858216.0,10-12-25 10:21
+5015,Johnny Reed,Elgato 4K Streaming Card,Accessories,1,249,Ealing,Debit,62858216.0,10-12-25 10:21
+5015,Johnny Reed,Meta Quest 4 VR Headset,VR,2,499,Ealing,Debit,62858216.0,10-12-25 10:21
+5016,,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Credit,66644200.0,10-12-25 10:22
+5016,Leo Jones,Dyson V16 Vacuum,Appliances,2,699,Ealing,Credit,66644200.0,10-12-25 10:22
+5016,Leo Jones,Canon EOS R9,Cameras,1,1999,Ealing,Credit,66644200.0,10-12-25 10:22
+5017,Jacob Stone,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Card,,10/12/2025 10:25
+5017,Jacob Stone,Sony A7V Camera,Cameras,2,2499,Ealing,Card,4872902.0,10/12/2025 10:25
+5018,Lisa Wong,Sony WH‑1000XM7,Audio,2,399,Ealing,Cash,,10-12-25 10:33
+5019,Mark Davies,Xbox Series X2,Gaming,1,649,Oxford,Card,44961528.0,2025-12-10 10:34
+5019,Mark Davies,Sony WH‑1000XM7,Audio,2,399,Oxford,Card,44961528.0,2025-12-10 10:34
+5019,Mark Davies,Sony A7V Camera,Cameras,2,2499,Oxford,Card,44961528.0,2025-12-10 10:34
+5020,Tom Brown,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Card,79819730.0,10-12-25 10:35
+5020,Tom Brown,Sony WH‑1000XM7,Audio,2,399,Camden,Card,79819730.0,10-12-25 10:35
+5021,,PlayStation 5 Pro Console,Gaming,2,699, Soho ,Cash,,10/12/2025 10:45
+5021,,PlayStation 5 Pro Console,Gaming,2,699, Soho ,Cash,,10/12/2025 10:45
+5022,Jacob Stone,Apple Watch X,Wearables,1,799,Camden,Debit,93248279.0,10/12/2025 10:51
+5022,Jacob Stone,Meta Quest 4 VR Headset,VR,1,499,Camden,Debit,93248279.0,10/12/2025 10:51
+5022,Jacob Stone,Google Pixel 10 Pro,Phones,1,999,Camden,Debit,93248279.0,10/12/2025 10:51
+5023,Emily Clark,Meta Quest 4 VR Headset,VR,1,499, Oxford ,Debit,,10/12/2025 10:59
+5023,,iPhone 17 Pro Max,Phones,1,1299, Oxford ,Debit,69362923.0,10/12/2025 10:59
+5023,Emily Clark,iPhone 17 Pro Max,Phones,1,1299, Oxford ,Debit,69362923.0,10/12/2025 10:59
+5023,Emily Clark,Xbox Series X2,Gaming,2,649, Oxford ,Debit,69362923.0,10/12/2025 10:59
+5024,Alice Moore,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Debit,55363085.0,2025/12/10 11:08
+5024,Alice Moore,Google Pixel 10 Pro,Phones,1,999,Oxford,Debit,55363085.0,2025/12/10 11:08
+5024,,USB‑C 240W Cable,Accessories,2,29,Oxford,Debit,55363085.0,2025/12/10 11:08
+5024,Alice Moore,Dyson V16 Vacuum,Appliances,2,699,Oxford,Debit,55363085.0,2025/12/10 11:08
+5025,Jacob Stone,Sony A7V Camera,Cameras,1,2499,Camden,Cash,,10-12-25 11:17
+5025,Jacob Stone,PlayStation 5 Pro Console,Gaming,1,699,Camden,Cash,,10-12-25 11:17
+5025,,MacBook Pro M4 Pro,Laptops,1,2499,Camden,Cash,,10-12-25 11:17
+5026,Alex Li,Meta Quest 4 VR Headset,VR,1,499,Oxford,Card,97079049.0,2025-12-10 11:20
+5027,,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Debit,21641430.0,10-12-25 11:25
+5027,,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Debit,21641430.0,10-12-25 11:25
+5028,,Bose QuietComfort Ultra,Audio,1,349,Oxford,Cash,,2025/12/10 11:35
+5028,,Bose QuietComfort Ultra,Audio,1,349,Oxford,Cash,,2025/12/10 11:35
+5028,,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Cash,,2025/12/10 11:35
+5028,,USB‑C 240W Cable,Accessories,1,29,Oxford,Cash,,2025/12/10 11:35
+5029,Lisa Wong,iPhone 17 Pro Max,Phones,1,1299,Soho,Credit,59014395.0,10/12/2025 11:42
+5030,Leo Jones,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Card,81047924.0,2025-12-10 11:48
+5030,Leo Jones,iPhone 17 Pro Max,Phones,2,1299,Ealing,Card,81047924.0,2025-12-10 11:48
+5030,Leo Jones,Portable SSD 4TB Gen4,Storage,2,249,Ealing,Card,81047924.0,2025-12-10 11:48
+5030,Leo Jones,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Ealing,Card,81047924.0,2025-12-10 11:48
+5031,Alice Moore,Bose QuietComfort Ultra,Audio,1,349,Ealing,Credit,74323652.0,2025/12/10 11:53
+5031,Alice Moore,USB‑C 240W Cable,Accessories,2,29,Ealing,Credit,74323652.0,2025/12/10 11:53
+5031,Alice Moore,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Credit,74323652.0,2025/12/10 11:53
+5031,Alice Moore,Nvidia RTX 5090 GPU,PC Components,2,1999,Ealing,Credit,74323652.0,2025/12/10 11:53
+5032,Leo Jones,Google Pixel 10 Pro,Phones,1,999,Oxford,Debit,12457449.0,2025/12/10 11:54
+5032,Leo Jones,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Debit,12457449.0,2025/12/10 11:54
+5032,Leo Jones,Google Pixel 10 Pro,Phones,2,999,Oxford,Debit,12457449.0,2025/12/10 11:54
+5033,Johnny Reed,Dyson V16 Vacuum,Appliances,2,699,Camden,Cash,,10/12/2025 11:56
+5033,Johnny Reed,Google Pixel 10 Pro,Phones,2,999,Camden,Cash,,10/12/2025 11:56
+5033,Johnny Reed,PlayStation 5 Pro Console,Gaming,1,699,Camden,Cash,,10/12/2025 11:56
+5033,Johnny Reed,Google Pixel 10 Pro,Phones,2,999,Camden,Cash,,10/12/2025 11:56
+5034,,Sony A7V Camera,Cameras,1,2499,Ealing,Cash,,10-12-25 12:02
+5035,James White,LG OLED Evo G5 65-inch,TV,2,2499,Soho,Cash,,2025-12-10 12:04
+5036,Alex Li,Xbox Series X2,Gaming,1,649,Camden,Cash,,2025-12-10 12:05
+5036,Alex Li,Nintendo Switch 2,Gaming,1,399,Camden,Cash,,2025-12-10 12:05
+5037,Leo Jones,Dell XPS 14 OLED 2025,Laptops,2,1899,SoHo,Debit,41906843.0,2025-12-10 12:09
+5038,,Samsung Galaxy S25 Ultra,Phones,2,1199,CamDn,Credit,3773943.0,10-12-25 12:10
+5038,Johnny Reed,Nvidia RTX 5090 GPU,PC Components,1,1999,CamDn,Credit,3773943.0,10-12-25 12:10
+5039,Johnny Reed,MacBook Air M4,Laptops,1,1599,,Credit,52693836.0,10/12/2025 12:20
+5039,Johnny Reed,MacBook Pro M4 Pro,Laptops,2,2499,Ealing,Credit,52693836.0,10/12/2025 12:20
+5039,Johnny Reed,Nintendo Switch 2,Gaming,2,399,Ealing,Credit,52693836.0,10/12/2025 12:20
+5040,Leo Jones,Samsung Galaxy S25 Ultra,Phones,2,1199,Oxford,Cash,,10-12-25 12:27
+5041,Sarah Mills,Sony A7V Camera,Cameras,2,2499,Soho,Credit,69709335.0,2025/12/10 12:32
+5041,Sarah Mills,Xbox Series X2,Gaming,2,649,Soho,Credit,69709335.0,2025/12/10 12:32
+5041,Sarah Mills,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Soho,Credit,69709335.0,2025/12/10 12:32
+5041,Sarah Mills,Apple Watch X,Wearables,2,799,Soho,Credit,69709335.0,2025/12/10 12:32
+5042,Johnny Reed,Xbox Series X2,Gaming,1,649,Ealing,Debit,23632832.0,2025-12-10 12:40
+5043,Sarah Mills,Google Pixel 10 Pro,Phones,1,999,Camden,Cash,,2025/12/10 12:42
+5043,Sarah Mills,Apple Watch X,Wearables,1,799,Camden,Cash,,2025/12/10 12:42
+5043,Sarah Mills,Sony A7V Camera,Cameras,1,2499,Camden,Cash,,2025/12/10 12:42
+5044,,Bose QuietComfort Ultra,Audio,1,349,,Cash,,2025/12/10 12:51
+5044,,Canon EOS R9,Cameras,2,1999,Ealing,Cash,,2025/12/10 12:51
+5044,,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Cash,,2025/12/10 12:51
+5045,Tom Brown,Portable SSD 4TB Gen4,Storage,2,249,,Debit,82904314.0,10-12-25 12:59
+5046,Alice Moore,iPhone 17 Pro Max,Phones,1,1299,Soho,Card,81859335.0,2025/12/10 13:08
+5046,Alice Moore,Sony WH‑1000XM7,Audio,2,399,Soho,Card,81859335.0,2025/12/10 13:08
+5046,,Meta Quest 4 VR Headset,VR,2,499,Soho,Card,81859335.0,2025/12/10 13:08
+5047,Lisa Wong,Meta Quest 4 VR Headset,VR,2,499,Ealing,Debit,48841803.0,10-12-25 13:12
+5047,Lisa Wong,Elgato 4K Streaming Card,Accessories,1,249,Ealing,Debit,48841803.0,10-12-25 13:12
+5047,Lisa Wong,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Debit,48841803.0,10-12-25 13:12
+5048,Jacob Stone,iPhone 17 Pro Max,Phones,1,1299,Soho,Cash,,10/12/2025 13:16
+5049,Jacob Stone,Nintendo Switch 2,Gaming,1,399,SoHo,Card,73513638.0,10/12/2025 13:26
+5049,Jacob Stone,Elgato 4K Streaming Card,Accessories,2,249,SoHo,Card,73513638.0,10/12/2025 13:26
+5049,Jacob Stone,Samsung QD‑OLED S95D 55-inch,TV,2,1999,,Card,73513638.0,10/12/2025 13:26
+5049,Jacob Stone,MacBook Air M4,Laptops,1,1599,SoHo,Card,73513638.0,10/12/2025 13:26
+5050,Sarah Mills,Meta Quest 4 VR Headset,VR,2,499,Ealing,Card,28254369.0,10/12/2025 13:30
+5050,Sarah Mills,Nintendo Switch 2,Gaming,2,399,Ealing,Card,28254369.0,10/12/2025 13:30
+5050,Sarah Mills,Meta Quest 4 VR Headset,VR,2,499,Ealing,Card,28254369.0,10/12/2025 13:30
+5051,Tom Brown,LG OLED Evo G5 65-inch,TV,2,2499,Soho,Credit,35499308.0,10/12/2025 13:39
+5051,Tom Brown,Sony A7V Camera,Cameras,1,2499,Soho,Credit,35499308.0,10/12/2025 13:39
+5051,Tom Brown,Canon EOS R9,Cameras,2,1999,Soho,Credit,35499308.0,10/12/2025 13:39
+5052,James White,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Debit,85489863.0,2025/12/10 13:44
+5053,Alice Moore,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Card,31564320.0,2025-12-10 13:48
+5053,Alice Moore,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Card,31564320.0,2025-12-10 13:48
+5054,Mark Davies,Dell XPS 14 OLED 2025,Laptops,2,1899,Ealing,Debit,29681923.0,10-12-25 13:55
+5055,James White,Meta Quest 4 VR Headset,VR,1,499,Camden,Cash,,2025-12-10 14:05
+5055,,Dyson V16 Vacuum,Appliances,2,699,Camden,Cash,,2025-12-10 14:05
+5055,James White,PlayStation 5 Pro Console,Gaming,1,699,Camden,Cash,,2025-12-10 14:05
+5055,James White,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Cash,,2025-12-10 14:05
+5056,Jacob Stone,Xbox Series X2,Gaming,1,649,CamDn,Credit,86221748.0,2025-12-10 14:12
+5056,Jacob Stone,Dyson V16 Vacuum,Appliances,2,699,CamDn,Credit,86221748.0,2025-12-10 14:12
+5057,Mark Davies,iPhone 17 Pro Max,Phones,2,1299,Soho,Cash,,2025/12/10 14:19
+5057,Mark Davies,iPhone 17 Pro Max,Phones,1,1299,Soho,Cash,,2025/12/10 14:19
+5057,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Soho,Cash,,2025/12/10 14:19
+5057,Mark Davies,Canon EOS R9,Cameras,1,1999,Soho,Cash,,2025/12/10 14:19
+5058,Johnny Reed,MacBook Air M4,Laptops,1,1599, Soho ,Card,91829280.0,10-12-25 14:21
+5058,Johnny Reed,Sony A7V Camera,Cameras,1,2499, Soho ,Card,91829280.0,10-12-25 14:21
+5058,Johnny Reed,USB‑C 240W Cable,Accessories,1,29, Soho ,Card,91829280.0,10-12-25 14:21
+5058,Johnny Reed,Portable SSD 4TB Gen4,Storage,1,249, Soho ,Card,91829280.0,10-12-25 14:21
+5059,Mia Johnson,USB‑C 240W Cable,Accessories,2,29,Soho,Cash,,10-12-25 14:25
+5059,Mia Johnson,USB‑C 240W Cable,Accessories,2,29,Soho,Cash,,10-12-25 14:25
+5059,Mia Johnson,PlayStation 5 Pro Console,Gaming,1,699,Soho,Cash,,10-12-25 14:25
+5059,Mia Johnson,MacBook Pro M4 Pro,Laptops,2,2499,,Cash,,10-12-25 14:25
+5060,Jacob Stone,MacBook Air M4,Laptops,1,1599,Camden,Credit,99666561.0,10-12-25 14:33
+5060,Jacob Stone,Elgato 4K Streaming Card,Accessories,2,249,,Credit,99666561.0,10-12-25 14:33
+5061,James White,Xbox Series X2,Gaming,2,649,Ealing,Debit,,10-12-25 14:42
+5061,James White,Google Pixel 10 Pro,Phones,1,999,Ealing,Debit,83286032.0,10-12-25 14:42
+5061,James White,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Debit,83286032.0,10-12-25 14:42
+5061,James White,USB‑C 240W Cable,Accessories,2,29,Ealing,Debit,83286032.0,10-12-25 14:42
+5062,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Cash,,2025-12-10 14:47
+5063,Tom Brown,Sony WH‑1000XM7,Audio,2,399, Soho ,Card,46201003.0,10/12/2025 14:52
+5064,Jacob Stone,Elgato 4K Streaming Card,Accessories,1,249,Camden,Credit,63958773.0,10/12/2025 14:56
+5064,,Dell XPS 14 OLED 2025,Laptops,1,1899,Camden,Credit,63958773.0,10/12/2025 14:56
+5064,Jacob Stone,Samsung QD‑OLED S95D 55-inch,TV,1,1999,,Credit,63958773.0,10/12/2025 14:56
+5065,Leo Jones,Dyson V16 Vacuum,Appliances,1,699,Oxford,Cash,,10-12-25 15:00
+5065,Leo Jones,Dyson V16 Vacuum,Appliances,2,699,Oxford,Cash,,10-12-25 15:00
+5066,Jacob Stone,Dell XPS 14 OLED 2025,Laptops,2,1899,SoHo,Debit,45453052.0,2025-12-10 15:04
+5066,Jacob Stone,Nvidia RTX 5090 GPU,PC Components,1,1999,SoHo,Debit,45453052.0,2025-12-10 15:04
+5066,Jacob Stone,Bose QuietComfort Ultra,Audio,2,349,SoHo,Debit,45453052.0,2025-12-10 15:04
+5067,,Dyson V16 Vacuum,Appliances,2,699,Soho,Cash,,2025-12-10 15:13
+5067,,Meta Quest 4 VR Headset,VR,1,499,Soho,Cash,,2025-12-10 15:13
+5067,,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Cash,,2025-12-10 15:13
+5068,Sarah Mills,Portable SSD 4TB Gen4,Storage,2,249, Camden ,Card,91996321.0,10-12-25 15:16
+5068,Sarah Mills,Nintendo Switch 2,Gaming,2,399, Camden ,Card,91996321.0,10-12-25 15:16
+5069,,Meta Quest 4 VR Headset,VR,2,499,Ealing,Cash,,10-12-25 15:26
+5069,,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Cash,,10-12-25 15:26
+5069,,Sony WH‑1000XM7,Audio,1,399,Ealing,Cash,,10-12-25 15:26
+5070,John Smith,Elgato 4K Streaming Card,Accessories,2,249,Camden,Credit,60807532.0,2025-12-10 15:35
+5071,James White,Samsung Galaxy S25 Ultra,Phones,1,1199,Oxford,Debit,21461655.0,10/12/2025 15:39
+5071,James White,Nintendo Switch 2,Gaming,2,399,Oxford,Debit,21461655.0,10/12/2025 15:39
+5072,John Smith,Apple Watch X,Wearables,2,799,Ealing,Debit,16863957.0,2025-12-10 15:46
+5073,Leo Jones,Sony A7V Camera,Cameras,2,2499,Oxford,Cash,,2025-12-10 15:52
+5073,Leo Jones,LG OLED Evo G5 65-inch,TV,2,2499,Oxford,Cash,,2025-12-10 15:52
+5073,Leo Jones,Meta Quest 4 VR Headset,VR,2,499,Oxford,Cash,,2025-12-10 15:52
+5074,Lisa Wong,Dyson V16 Vacuum,Appliances,1,699,Ealing,Credit,24923026.0,2025/12/10 15:59
+5074,Lisa Wong,LG OLED Evo G5 65-inch,TV,2,2499,Ealing,Credit,,2025/12/10 15:59
+5075,Leo Jones,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Oxford ,Debit,36302670.0,2025-12-10 16:08
+5075,Leo Jones,Apple Watch X,Wearables,2,799, Oxford ,Debit,36302670.0,2025-12-10 16:08
+5075,Leo Jones,Meta Quest 4 VR Headset,VR,2,499, Oxford ,Debit,36302670.0,2025-12-10 16:08
+5075,Leo Jones,Elgato 4K Streaming Card,Accessories,1,249, Oxford ,Debit,36302670.0,2025-12-10 16:08
+5076,Tom Brown,Nvidia RTX 5090 GPU,PC Components,2,1999,Camden,Credit,60466484.0,10/12/2025 16:15
+5076,Tom Brown,Dell XPS 14 OLED 2025,Laptops,2,1899,Camden,Credit,60466484.0,10/12/2025 16:15
+5076,Tom Brown,Nintendo Switch 2,Gaming,2,399,Camden,Credit,60466484.0,10/12/2025 16:15
+5077,Leo Jones,Sony WH‑1000XM7,Audio,1,399,Oxford,Credit,89685159.0,10/12/2025 16:16
+5077,Leo Jones,Dell XPS 14 OLED 2025,Laptops,2,1899,Oxford,Credit,,10/12/2025 16:16
+5078,,Apple Watch X,Wearables,2,799,Camden,Cash,,2025-12-10 16:24
+5078,,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Cash,,2025-12-10 16:24
+5078,,Canon EOS R9,Cameras,1,1999,Camden,Cash,,2025-12-10 16:24
+5079,Lisa Wong,PlayStation 5 Pro Console,Gaming,1,699,Ealing,Card,57679425.0,2025-12-10 16:30
+5079,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Ealing,Card,57679425.0,2025-12-10 16:30
+5079,Lisa Wong,iPhone 17 Pro Max,Phones,1,1299,,Card,57679425.0,2025-12-10 16:30
+5080,,Sony A7V Camera,Cameras,2,2499,Ealing,Debit,20604057.0,10-12-25 16:32
+5080,,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Debit,20604057.0,10-12-25 16:32
+5080,,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Ealing,Debit,20604057.0,10-12-25 16:32
+5081,James White,MacBook Air M4,Laptops,2,1599,Camden,Credit,59023286.0,2025-12-10 16:38
+5081,James White,Samsung Galaxy S25 Ultra,Phones,1,1199,Camden,Credit,59023286.0,2025-12-10 16:38
+5082,,Portable SSD 4TB Gen4,Storage,2,249,Soho,Credit,7135620.0,2025/12/10 16:48
+5083,Alex Li,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Cash,,2025/12/10 16:57
+5083,Alex Li,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Cash,,2025/12/10 16:57
+5083,Alex Li,Nvidia RTX 5090 GPU,PC Components,1,1999,Oxford,Cash,,2025/12/10 16:57
+5084,Emily Clark,Apple Watch X,Wearables,1,799,,Debit,50217540.0,10-12-25 17:05
+5084,Emily Clark,Apple Watch X,Wearables,2,799,Ealing,Debit,50217540.0,10-12-25 17:05
+5084,Emily Clark,Sony WH‑1000XM7,Audio,2,399,Ealing,Debit,50217540.0,10-12-25 17:05
+5084,Emily Clark,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Debit,50217540.0,10-12-25 17:05
+5085,Johnny Reed,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Debit,46612928.0,2025-12-10 17:09
+5085,Johnny Reed,Portable SSD 4TB Gen4,Storage,2,249,Camden,Debit,46612928.0,2025-12-10 17:09
+5085,Johnny Reed,Nvidia RTX 5090 GPU,PC Components,2,1999,Camden,Debit,46612928.0,2025-12-10 17:09
+5086,Tom Brown,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Camden,Debit,76075369.0,10/12/2025 17:17
+5086,Tom Brown,Meta Quest 4 VR Headset,VR,2,499,Camden,Debit,76075369.0,10/12/2025 17:17
+5086,Tom Brown,Nintendo Switch 2,Gaming,1,399,Camden,Debit,76075369.0,10/12/2025 17:17
+5087,Johnny Reed,Google Pixel 10 Pro,Phones,1,999,Ealing,Card,34957063.0,10/12/2025 17:25
+5087,Johnny Reed,USB‑C 240W Cable,Accessories,1,29,Ealing,Card,34957063.0,10/12/2025 17:25
+5088,John Smith,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Oxford,Card,43018453.0,2025-12-10 17:35
+5088,John Smith,Meta Quest 4 VR Headset,VR,2,499,Oxford,Card,43018453.0,2025-12-10 17:35
+5089,Mark Davies,Elgato 4K Streaming Card,Accessories,2,249,Ealing,Debit,56553467.0,10-12-25 17:38
+5089,Mark Davies,Google Pixel 10 Pro,Phones,1,999,Ealing,Debit,56553467.0,10-12-25 17:38
+5089,Mark Davies,Nintendo Switch 2,Gaming,1,399,Ealing,Debit,,10-12-25 17:38
+5089,Mark Davies,PlayStation 5 Pro Console,Gaming,1,699,Ealing,Debit,56553467.0,10-12-25 17:38
+5090,Mark Davies,Dell XPS 14 OLED 2025,Laptops,1,1899,Oxford,Card,95948374.0,2025/12/10 17:45
+5091,Alex Li,Dyson V16 Vacuum,Appliances,1,699,CamDn,Cash,,2025-12-10 17:55
+5091,Alex Li,Dyson V16 Vacuum,Appliances,2,699,CamDn,Cash,,2025-12-10 17:55
+5091,Alex Li,USB‑C 240W Cable,Accessories,2,29,CamDn,Cash,,2025-12-10 17:55
+5091,Alex Li,Dyson V16 Vacuum,Appliances,1,699,CamDn,Cash,,2025-12-10 17:55
+5092,Lisa Wong,PlayStation 5 Pro Console,Gaming,2,699,Camden,Card,38099058.0,10-12-25 18:01
+5092,Lisa Wong,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Card,38099058.0,10-12-25 18:01
+5093,Alice Moore,MacBook Air M4,Laptops,2,1599,Soho,Debit,17009668.0,10-12-25 18:07
+5093,Alice Moore,Nvidia RTX 5090 GPU,PC Components,2,1999,Soho,Debit,17009668.0,10-12-25 18:07
+5093,Alice Moore,Google Pixel 10 Pro,Phones,1,999,Soho,Debit,17009668.0,10-12-25 18:07
+5094,Mark Davies,Elgato 4K Streaming Card,Accessories,1,249,Camden,Card,85521415.0,2025-12-10 18:10
+5094,Mark Davies,Bose QuietComfort Ultra,Audio,1,349,Camden,Card,85521415.0,2025-12-10 18:10
+5095,Tom Brown,Elgato 4K Streaming Card,Accessories,2,249,Soho,Cash,,10-12-25 18:18
+5095,Tom Brown,Canon EOS R9,Cameras,2,1999,Soho,Cash,,10-12-25 18:18
+5095,Tom Brown,USB‑C 240W Cable,Accessories,1,29,Soho,Cash,,10-12-25 18:18
+5096,Mark Davies,MacBook Air M4,Laptops,2,1599,Soho,Debit,22501664.0,2025-12-10 18:28
+5097,Jacob Stone,Nvidia RTX 5090 GPU,PC Components,1,1999,Oxford,Cash,,2025/12/10 18:34
+5097,Jacob Stone,Bose QuietComfort Ultra,Audio,2,349,Oxford,Cash,,2025/12/10 18:34
+5097,Jacob Stone,USB‑C 240W Cable,Accessories,1,29,Oxford,Cash,,2025/12/10 18:34
+5098,Tom Brown,MacBook Air M4,Laptops,1,1599,Ealing,Debit,15033142.0,10/12/2025 18:42
+5099,Mark Davies,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Debit,97874393.0,2025-12-10 18:46
+5099,Mark Davies,MacBook Air M4,Laptops,2,1599,Oxford,Debit,97874393.0,2025-12-10 18:46
+5099,Mark Davies,Meta Quest 4 VR Headset,VR,1,499,Oxford,Debit,97874393.0,2025-12-10 18:46
+5099,Mark Davies,MacBook Pro M4 Pro,Laptops,1,2499,Oxford,Debit,97874393.0,2025-12-10 18:46
+5100,Mia Johnson,MacBook Air M4,Laptops,1,1599,Camden,Debit,23673767.0,2025-12-10 18:48
+5101,Tom Brown,Nintendo Switch 2,Gaming,1,399,Ealing,Credit,6266122.0,10/12/2025 18:50
+5101,Tom Brown,Google Pixel 10 Pro,Phones,1,999,Ealing,Credit,6266122.0,10/12/2025 18:50
+5102,,iPhone 17 Pro Max,Phones,2,1299,Camden,Cash,,10-12-25 18:52
+5102,,Dyson V16 Vacuum,Appliances,1,699,Camden,Cash,,10-12-25 18:52
+5103,Jacob Stone,Sony A7V Camera,Cameras,1,2499,Soho,Card,38039466.0,10/12/2025 19:02
+5104,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Card,65370859.0,2025-12-10 19:11
+5105,Emily Clark,Nvidia RTX 5090 GPU,PC Components,2,1999,Ealing,Card,28372807.0,2025/12/10 19:21
+5105,Emily Clark,Nintendo Switch 2,Gaming,1,399,Ealing,Card,28372807.0,2025/12/10 19:21
+5105,Emily Clark,Meta Quest 4 VR Headset,VR,1,499,Ealing,Card,28372807.0,2025/12/10 19:21
+5106,,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Card,39089176.0,10-12-25 19:29
+5106,Johnny Reed,Canon EOS R9,Cameras,1,1999,Oxford,Card,39089176.0,10-12-25 19:29
+5106,Johnny Reed,PlayStation 5 Pro Console,Gaming,1,699,Oxford,Card,39089176.0,10-12-25 19:29
+5107,,Elgato 4K Streaming Card,Accessories,1,249,Camden,Debit,76919221.0,10/12/2025 19:37
+5107,Mia Johnson,iPhone 17 Pro Max,Phones,1,1299,Camden,Debit,76919221.0,10/12/2025 19:37
+5107,Mia Johnson,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Debit,76919221.0,10/12/2025 19:37
+5107,Mia Johnson,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Debit,76919221.0,10/12/2025 19:37
+5108,Mia Johnson,Apple Watch X,Wearables,1,799,Camden,Debit,5410180.0,2025/12/10 19:42
+5108,Mia Johnson,Portable SSD 4TB Gen4,Storage,2,249,Camden,Debit,5410180.0,2025/12/10 19:42
+5108,Mia Johnson,Dell XPS 14 OLED 2025,Laptops,2,1899,Camden,Debit,5410180.0,2025/12/10 19:42
+5109,Jacob Stone,PlayStation 5 Pro Console,Gaming,1,699,Camden,Debit,61085646.0,2025-12-10 19:44
+5110,Johnny Reed,Elgato 4K Streaming Card,Accessories,2,249,Camden,Debit,38778435.0,10-12-25 19:51
+5110,Johnny Reed,Elgato 4K Streaming Card,Accessories,2,249,Camden,Debit,38778435.0,10-12-25 19:51
+5111,Jacob Stone,LG OLED Evo G5 65-inch,TV,2,2499,Soho,Debit,2318783.0,10-12-25 19:58
+5111,Jacob Stone,Apple Watch X,Wearables,1,799,Soho,Debit,2318783.0,10-12-25 19:58
+5112,Johnny Reed,Xbox Series X2,Gaming,1,649,Camden,Debit,,2025/12/10 20:01
+5112,Johnny Reed,USB‑C 240W Cable,Accessories,1,29,Camden,Debit,77029440.0,2025/12/10 20:01
+5112,Johnny Reed,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Camden,Debit,77029440.0,2025/12/10 20:01
+5113,Alice Moore,Xbox Series X2,Gaming,2,649, Camden ,Debit,,2025-12-10 20:08
+5113,Alice Moore,USB‑C 240W Cable,Accessories,2,29, Camden ,Debit,60324466.0,2025-12-10 20:08
+5113,Alice Moore,Meta Quest 4 VR Headset,VR,1,499, Camden ,Debit,60324466.0,2025-12-10 20:08
+5114,,MacBook Air M4,Laptops,1,1599,Camden,Cash,,10/12/2025 20:16
+5114,,MacBook Pro M4 Pro,Laptops,1,2499,Camden,Cash,,10/12/2025 20:16
+5114,,Elgato 4K Streaming Card,Accessories,1,249,Camden,Cash,,10/12/2025 20:16
+5114,,Samsung Galaxy S25 Ultra,Phones,1,1199,Camden,Cash,,10/12/2025 20:16
+5115,Sarah Mills,USB‑C 240W Cable,Accessories,1,29,Oxford,Card,31579200.0,2025-12-10 20:21
+5116,Mark Davies,Sony WH‑1000XM7,Audio,1,399, Camden ,Card,8646838.0,10-12-25 20:31
+5116,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Camden ,Card,8646838.0,10-12-25 20:31
+5116,Mark Davies,Sony WH‑1000XM7,Audio,2,399, Camden ,Card,8646838.0,10-12-25 20:31
+5117,,Bose QuietComfort Ultra,Audio,1,349,Oxford,Credit,8515971.0,10-12-25 20:41
+5117,,Sony WH‑1000XM7,Audio,2,399,Oxford,Credit,8515971.0,10-12-25 20:41
+5118,Lisa Wong,Apple Watch X,Wearables,1,799,Soho,Credit,87155954.0,10-12-25 20:44
+5118,Lisa Wong,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Credit,,10-12-25 20:44
+5118,Lisa Wong,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Credit,87155954.0,10-12-25 20:44
+5118,Lisa Wong,Apple Watch X,Wearables,1,799,Soho,Credit,,10-12-25 20:44
+5119,Tom Brown,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Debit,10338879.0,10/12/2025 20:52
+5119,Tom Brown,Dell XPS 14 OLED 2025,Laptops,2,1899,Oxford,Debit,10338879.0,10/12/2025 20:52
+5120,Jacob Stone,Meta Quest 4 VR Headset,VR,1,499,Soho,Credit,59615538.0,2025/12/10 21:01
+5121,Alice Moore,Dyson V16 Vacuum,Appliances,1,699, Ealing ,Debit,85360781.0,2025-12-10 21:09
+5121,Alice Moore,Dyson V16 Vacuum,Appliances,1,699, Ealing ,Debit,85360781.0,2025-12-10 21:09
+5121,Alice Moore,iPhone 17 Pro Max,Phones,2,1299, Ealing ,Debit,,2025-12-10 21:09
+5122,Johnny Reed,iPhone 17 Pro Max,Phones,1,1299,Soho,Card,72770396.0,10/12/2025 21:19
+5122,Johnny Reed,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Card,72770396.0,10/12/2025 21:19
+5122,Johnny Reed,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Card,72770396.0,10/12/2025 21:19
+5122,Johnny Reed,Nintendo Switch 2,Gaming,1,399,Soho,Card,72770396.0,10/12/2025 21:19
+5123,,Meta Quest 4 VR Headset,VR,2,499,Soho,Cash,,2025/12/10 21:24
+5123,Johnny Reed,Elgato 4K Streaming Card,Accessories,2,249,Soho,Cash,,2025/12/10 21:24
+5124,Mark Davies,Nintendo Switch 2,Gaming,1,399,Soho,Debit,51452851.0,2025/12/10 21:25
+5125,Alice Moore,USB‑C 240W Cable,Accessories,1,29,Oxford,Debit,65288670.0,10-12-25 21:34
+5125,Alice Moore,Dell XPS 14 OLED 2025,Laptops,1,1899,Oxford,Debit,65288670.0,10-12-25 21:34
+5126,Alex Li,Meta Quest 4 VR Headset,VR,2,499,Oxford,Card,31269776.0,2025-12-10 21:41
+5126,Alex Li,USB‑C 240W Cable,Accessories,1,29,Oxford,Card,31269776.0,2025-12-10 21:41
+5127,John Smith,Portable SSD 4TB Gen4,Storage,2,249,SoHo,Cash,,2025/12/10 21:44
+5127,John Smith,MacBook Pro M4 Pro,Laptops,2,2499,SoHo,Cash,,2025/12/10 21:44
+5127,John Smith,Xbox Series X2,Gaming,2,649,SoHo,Cash,,2025/12/10 21:44
+5128,Lisa Wong,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Card,5500470.0,10-12-25 21:54
+5129,,USB‑C 240W Cable,Accessories,1,29,Ealing,Cash,,10/12/2025 22:01
+5129,,Sony A7V Camera,Cameras,2,2499,Ealing,Cash,,10/12/2025 22:01
+5129,,LG OLED Evo G5 65-inch,TV,1,2499,Ealing,Cash,,10/12/2025 22:01
+5130,James White,Meta Quest 4 VR Headset,VR,1,499,Soho,Cash,,2025/12/10 22:10
+5130,James White,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Soho,Cash,,2025/12/10 22:10
+5130,James White,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Cash,,2025/12/10 22:10
+5130,James White,MacBook Air M4,Laptops,1,1599,Soho,Cash,,2025/12/10 22:10
+5131,James White,Elgato 4K Streaming Card,Accessories,1,249,Oxford,Credit,62729983.0,10-12-25 22:11
+5132,Jacob Stone,USB‑C 240W Cable,Accessories,1,29,Soho,Credit,4315516.0,10/12/2025 22:19
+5132,Jacob Stone,Meta Quest 4 VR Headset,VR,1,499,Soho,Credit,4315516.0,10/12/2025 22:19
+5132,Jacob Stone,Xbox Series X2,Gaming,2,649,Soho,Credit,4315516.0,10/12/2025 22:19
+5132,Jacob Stone,Nvidia RTX 5090 GPU,PC Components,2,1999,Soho,Credit,4315516.0,10/12/2025 22:19
+5133,,Sony WH‑1000XM7,Audio,2,399,Camden,Debit,98980782.0,10/12/2025 22:22
+5133,,Dyson V16 Vacuum,Appliances,1,699,Camden,Debit,98980782.0,10/12/2025 22:22
+5133,,Xbox Series X2,Gaming,1,649,Camden,Debit,98980782.0,10/12/2025 22:22
+5134,James White,Meta Quest 4 VR Headset,VR,2,499,Soho,Debit,42499881.0,10/12/2025 22:24
+5134,James White,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Debit,42499881.0,10/12/2025 22:24
+5135,Emily Clark,Google Pixel 10 Pro,Phones,2,999,Soho,Debit,4863307.0,2025-12-10 22:32
+5135,Emily Clark,Elgato 4K Streaming Card,Accessories,2,249,Soho,Debit,4863307.0,2025-12-10 22:32
+5135,Emily Clark,Elgato 4K Streaming Card,Accessories,1,249,Soho,Debit,4863307.0,2025-12-10 22:32
+5136,James White,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Camden,Debit,94671668.0,2025/12/10 22:34
+5136,James White,Canon EOS R9,Cameras,1,1999,Camden,Debit,94671668.0,2025/12/10 22:34
+5137,Emily Clark,MacBook Pro M4 Pro,Laptops,1,2499,Oxford,Cash,,2025/12/10 22:38
+5138,Johnny Reed,Canon EOS R9,Cameras,2,1999,Soho,Credit,60312150.0,2025-12-10 22:42
+5138,Johnny Reed,iPhone 17 Pro Max,Phones,2,1299,Soho,Credit,60312150.0,2025-12-10 22:42
+5138,Johnny Reed,Google Pixel 10 Pro,Phones,1,999,Soho,Credit,60312150.0,2025-12-10 22:42
+5139,John Smith,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Debit,33367447.0,10/12/2025 22:49
+5140,Johnny Reed,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Debit,17278795.0,10-12-25 22:53
+5140,Johnny Reed,Nintendo Switch 2,Gaming,2,399,Ealing,Debit,17278795.0,10-12-25 22:53
+5141,,Sony A7V Camera,Cameras,1,2499, Soho ,Card,,10-12-25 22:56
+5141,Mia Johnson,Dyson V16 Vacuum,Appliances,2,699, Soho ,Card,70222860.0,10-12-25 22:56
+5141,Mia Johnson,USB‑C 240W Cable,Accessories,2,29, Soho ,Card,70222860.0,10-12-25 22:56
+5141,Mia Johnson,Portable SSD 4TB Gen4,Storage,1,249,,Card,70222860.0,10-12-25 22:56
+5142,Alex Li,Dyson V16 Vacuum,Appliances,2,699,Ealing,Credit,,10/12/2025 23:04
+5143,Tom Brown,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Credit,7260294.0,10/12/2025 23:07
+5143,Tom Brown,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Credit,7260294.0,10/12/2025 23:07
+5144,Leo Jones,Canon EOS R9,Cameras,1,1999,Soho,Credit,93438773.0,2025/12/10 23:08
+5144,Leo Jones,PlayStation 5 Pro Console,Gaming,2,699,Soho,Credit,93438773.0,2025/12/10 23:08
+5145,Jacob Stone,Canon EOS R9,Cameras,2,1999,Ealing,Debit,34776033.0,2025/12/10 23:17
+5146,Alice Moore,Bose QuietComfort Ultra,Audio,1,349, Oxford ,Debit,64999514.0,2025/12/10 23:21
+5147,Tom Brown,iPhone 17 Pro Max,Phones,1,1299,CamDn,Debit,83622673.0,2025-12-10 23:24
+5147,Tom Brown,MacBook Pro M4 Pro,Laptops,1,2499,CamDn,Debit,83622673.0,2025-12-10 23:24
+5147,Tom Brown,Apple Watch X,Wearables,1,799,CamDn,Debit,,2025-12-10 23:24
+5147,Tom Brown,Apple Watch X,Wearables,2,799,CamDn,Debit,83622673.0,2025-12-10 23:24
+5148,,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Oxford,Card,23054913.0,10-12-25 23:27
+5149,Alice Moore,iPhone 17 Pro Max,Phones,1,1299,Ealing,Debit,70825388.0,2025/12/10 23:36
+5149,Alice Moore,Xbox Series X2,Gaming,2,649,Ealing,Debit,70825388.0,2025/12/10 23:36
+5150,Mark Davies,Xbox Series X2,Gaming,2,649,Ealing,Debit,88538357.0,2025-12-10 23:39
+5150,Mark Davies,USB‑C 240W Cable,Accessories,1,29,Ealing,Debit,88538357.0,2025-12-10 23:39
+5151,Emily Clark,Sony WH‑1000XM7,Audio,2,399,Ealing,Cash,,2025-12-10 23:40
+5151,Emily Clark,Sony A7V Camera,Cameras,2,2499,Ealing,Cash,,2025-12-10 23:40
+5151,,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Cash,,2025-12-10 23:40
+5152,Alex Li,Dell XPS 14 OLED 2025,Laptops,2,1899,Oxford,Debit,52796135.0,2025-12-10 23:45
+5153,Sarah Mills,Sony WH‑1000XM7,Audio,1,399,Ealing,Card,96657263.0,2025-12-10 23:51
+5154,Leo Jones,Portable SSD 4TB Gen4,Storage,1,249,Camden,Credit,24944048.0,2025/12/10 23:56
+5154,Leo Jones,Sony A7V Camera,Cameras,1,2499,Camden,Credit,24944048.0,2025/12/10 23:56
+5154,Leo Jones,Xbox Series X2,Gaming,1,649,Camden,Credit,24944048.0,2025/12/10 23:56
+5155,Alice Moore,Sony A7V Camera,Cameras,1,2499,Camden,Cash,,2025/12/11 00:02
+5155,Alice Moore,USB‑C 240W Cable,Accessories,2,29,Camden,Cash,,2025/12/11 00:02
+5155,Alice Moore,MacBook Air M4,Laptops,2,1599,Camden,Cash,,2025/12/11 00:02
+5156,John Smith,Meta Quest 4 VR Headset,VR,2,499,Soho,Debit,10664872.0,2025-12-11 00:09
+5156,John Smith,Dyson V16 Vacuum,Appliances,1,699,Soho,Debit,10664872.0,2025-12-11 00:09
+5156,John Smith,Portable SSD 4TB Gen4,Storage,2,249,Soho,Debit,10664872.0,2025-12-11 00:09
+5156,John Smith,Sony A7V Camera,Cameras,2,2499,Soho,Debit,10664872.0,2025-12-11 00:09
+5157,Lisa Wong,USB‑C 240W Cable,Accessories,2,29,Ealing,Credit,88868681.0,11-12-25 00:17
+5158,Lisa Wong,LG OLED Evo G5 65-inch,TV,2,2499,Camden,Debit,20150810.0,11-12-25 00:23
+5159,Mia Johnson,Apple Watch X,Wearables,1,799,Ealing,Debit,86048198.0,11-12-25 00:32
+5160,Lisa Wong,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Credit,14085439.0,2025/12/11 00:35
+5160,Lisa Wong,Apple Watch X,Wearables,1,799,Ealing,Credit,14085439.0,2025/12/11 00:35
+5161,Mia Johnson,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Card,,11-12-25 00:42
+5162,,Bose QuietComfort Ultra,Audio,1,349,Soho,Cash,,2025/12/11 00:46
+5162,,Samsung Galaxy S25 Ultra,Phones,2,1199,Soho,Cash,,2025/12/11 00:46
+5162,,Bose QuietComfort Ultra,Audio,2,349,Soho,Cash,,2025/12/11 00:46
+5163,Sarah Mills,Xbox Series X2,Gaming,1,649,Oxford,Debit,29362249.0,11-12-25 00:49
+5163,Sarah Mills,Google Pixel 10 Pro,Phones,2,999,Oxford,Debit,,11-12-25 00:49
+5163,Sarah Mills,Dyson V16 Vacuum,Appliances,2,699,Oxford,Debit,29362249.0,11-12-25 00:49
+5163,Sarah Mills,Apple Watch X,Wearables,2,799,Oxford,Debit,29362249.0,11-12-25 00:49
+5164,Emily Clark,Elgato 4K Streaming Card,Accessories,1,249,SoHo,Card,51634212.0,11/12/2025 00:51
+5164,Emily Clark,Apple Watch X,Wearables,2,799,SoHo,Card,51634212.0,11/12/2025 00:51
+5164,Emily Clark,iPhone 17 Pro Max,Phones,2,1299,SoHo,Card,51634212.0,11/12/2025 00:51
+5165,Mia Johnson,Google Pixel 10 Pro,Phones,2,999,Ealing,Debit,23230868.0,2025/12/11 00:52
+5165,,Sony WH‑1000XM7,Audio,1,399,Ealing,Debit,,2025/12/11 00:52
+5165,Mia Johnson,Sony A7V Camera,Cameras,1,2499,Ealing,Debit,23230868.0,2025/12/11 00:52
+5165,Mia Johnson,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Debit,23230868.0,2025/12/11 00:52
+5166,Mia Johnson,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Card,61604672.0,11/12/2025 01:02
+5166,Mia Johnson,Elgato 4K Streaming Card,Accessories,1,249,Ealing,Card,61604672.0,11/12/2025 01:02
+5167,Lisa Wong,PlayStation 5 Pro Console,Gaming,2,699,Soho,Debit,85800941.0,11-12-25 01:03
+5168,Alice Moore,Xbox Series X2,Gaming,2,649,Soho,Debit,38482777.0,2025/12/11 01:13
+5169,Emily Clark,Dyson V16 Vacuum,Appliances,1,699,Camden,Cash,,2025-12-11 01:15
+5170,Johnny Reed,Dyson V16 Vacuum,Appliances,2,699,Soho,Debit,33315212.0,11-12-25 01:18
+5170,Johnny Reed,Bose QuietComfort Ultra,Audio,2,349,Soho,Debit,33315212.0,11-12-25 01:18
+5170,Johnny Reed,Canon EOS R9,Cameras,2,1999,Soho,Debit,33315212.0,11-12-25 01:18
+5170,Johnny Reed,MacBook Pro M4 Pro,Laptops,1,2499,Soho,Debit,33315212.0,11-12-25 01:18
+5171,,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Oxford,Credit,77857892.0,2025/12/11 01:19
+5172,Sarah Mills,Samsung Galaxy S25 Ultra,Phones,1,1199, Soho ,Card,15761969.0,2025/12/11 01:29
+5172,Sarah Mills,Apple Watch X,Wearables,2,799, Soho ,Card,15761969.0,2025/12/11 01:29
+5173,Mia Johnson,Sony A7V Camera,Cameras,1,2499,Ealing,Credit,,2025/12/11 01:39
+5174,Jacob Stone,Samsung Galaxy S25 Ultra,Phones,1,1199,Soho,Credit,4671219.0,2025/12/11 01:47
+5175,Lisa Wong,Elgato 4K Streaming Card,Accessories,2,249,Ealing,Debit,35015224.0,11/12/2025 01:50
+5175,Lisa Wong,Apple Watch X,Wearables,1,799,Ealing,Debit,35015224.0,11/12/2025 01:50
+5175,Lisa Wong,Nvidia RTX 5090 GPU,PC Components,1,1999,Ealing,Debit,35015224.0,11/12/2025 01:50
+5176,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Oxford ,Card,75227363.0,2025/12/11 01:57
+5176,Lisa Wong,Apple Watch X,Wearables,1,799, Oxford ,Card,,2025/12/11 01:57
+5177,James White,USB‑C 240W Cable,Accessories,1,29,Camden,Card,,11-12-25 01:58
+5178,Sarah Mills,Canon EOS R9,Cameras,2,1999,Ealing,Debit,67192475.0,11-12-25 02:03
+5178,Sarah Mills,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Debit,67192475.0,11-12-25 02:03
+5179,,Apple Watch X,Wearables,1,799,Camden,Debit,39567848.0,2025-12-11 02:13
+5179,,Portable SSD 4TB Gen4,Storage,1,249,Camden,Debit,39567848.0,2025-12-11 02:13
+5179,,MacBook Air M4,Laptops,2,1599,Camden,Debit,39567848.0,2025-12-11 02:13
+5179,,Sony WH‑1000XM7,Audio,2,399,Camden,Debit,39567848.0,2025-12-11 02:13
+5180,Emily Clark,Nvidia RTX 5090 GPU,PC Components,1,1999,Camden,Cash,,11-12-25 02:21
+5181,Alex Li,Sony WH‑1000XM7,Audio,1,399,Oxford,Debit,8565164.0,11/12/2025 02:28
+5181,Alex Li,Xbox Series X2,Gaming,1,649,Oxford,Debit,,11/12/2025 02:28
+5181,Alex Li,Nintendo Switch 2,Gaming,2,399,Oxford,Debit,8565164.0,11/12/2025 02:28
+5182,Alice Moore,Nvidia RTX 5090 GPU,PC Components,1,1999, Soho ,Cash,,11-12-25 02:31
+5183,Lisa Wong,Apple Watch X,Wearables,2,799,Oxford,Credit,47485690.0,2025/12/11 02:39
+5183,Lisa Wong,Dell XPS 14 OLED 2025,Laptops,1,1899,Oxford,Credit,47485690.0,2025/12/11 02:39
+5183,Lisa Wong,Nvidia RTX 5090 GPU,PC Components,1,1999,Oxford,Credit,47485690.0,2025/12/11 02:39
+5184,,Nvidia RTX 5090 GPU,PC Components,2,1999,Soho,Card,63896472.0,2025/12/11 02:47
+5184,,Xbox Series X2,Gaming,1,649,Soho,Card,63896472.0,2025/12/11 02:47
+5184,,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Card,63896472.0,2025/12/11 02:47
+5184,,Bose QuietComfort Ultra,Audio,2,349,Soho,Card,63896472.0,2025/12/11 02:47
+5185,Johnny Reed,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Oxford,Credit,19041397.0,11-12-25 02:49
+5185,Johnny Reed,Samsung Galaxy S25 Ultra,Phones,1,1199,Oxford,Credit,19041397.0,11-12-25 02:49
+5185,Johnny Reed,Canon EOS R9,Cameras,2,1999,Oxford,Credit,19041397.0,11-12-25 02:49
+5185,Johnny Reed,LG OLED Evo G5 65-inch,TV,1,2499,Oxford,Credit,19041397.0,11-12-25 02:49
+5186,Johnny Reed,MacBook Air M4,Laptops,2,1599,Oxford,Debit,53469726.0,2025-12-11 02:58
+5186,Johnny Reed,Portable SSD 4TB Gen4,Storage,1,249,,Debit,53469726.0,2025-12-11 02:58
+5186,,Sony WH‑1000XM7,Audio,2,399,Oxford,Debit,53469726.0,2025-12-11 02:58
+5187,Mia Johnson,PlayStation 5 Pro Console,Gaming,2,699,Camden,Credit,10574384.0,2025-12-11 03:00
+5187,Mia Johnson,Nintendo Switch 2,Gaming,2,399,Camden,Credit,10574384.0,2025-12-11 03:00
+5187,Mia Johnson,PlayStation 5 Pro Console,Gaming,1,699,Camden,Credit,10574384.0,2025-12-11 03:00
+5187,Mia Johnson,Dell XPS 14 OLED 2025,Laptops,1,1899,Camden,Credit,10574384.0,2025-12-11 03:00
+5188,Johnny Reed,Nintendo Switch 2,Gaming,2,399,Soho,Card,78746255.0,11-12-25 03:06
+5188,Johnny Reed,Portable SSD 4TB Gen4,Storage,1,249,Soho,Card,,11-12-25 03:06
+5189,Emily Clark,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Card,38033279.0,11-12-25 03:16
+5189,Emily Clark,Dyson V16 Vacuum,Appliances,2,699,Ealing,Card,38033279.0,11-12-25 03:16
+5189,Emily Clark,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Card,38033279.0,11-12-25 03:16
+5189,Emily Clark,Dyson V16 Vacuum,Appliances,2,699,Ealing,Card,38033279.0,11-12-25 03:16
+5190,James White,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Oxford,Credit,5989847.0,2025/12/11 03:20
+5190,James White,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Credit,5989847.0,2025/12/11 03:20
+5191,,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Cash,,2025-12-11 03:25
+5191,,Dell XPS 14 OLED 2025,Laptops,2,1899,Oxford,Cash,,2025-12-11 03:25
+5192,Emily Clark,MacBook Air M4,Laptops,2,1599,Oxford,Card,38621805.0,2025/12/11 03:34
+5192,Emily Clark,Samsung Galaxy S25 Ultra,Phones,2,1199,Oxford,Card,38621805.0,2025/12/11 03:34
+5192,Emily Clark,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Card,38621805.0,2025/12/11 03:34
+5193,Johnny Reed,Xbox Series X2,Gaming,2,649,Soho,Credit,36743300.0,11-12-25 03:37
+5193,Johnny Reed,USB‑C 240W Cable,Accessories,2,29,Soho,Credit,36743300.0,11-12-25 03:37
+5193,Johnny Reed,Sony A7V Camera,Cameras,1,2499,Soho,Credit,36743300.0,11-12-25 03:37
+5193,Johnny Reed,Dyson V16 Vacuum,Appliances,2,699,Soho,Credit,36743300.0,11-12-25 03:37
+5194,Lisa Wong,Elgato 4K Streaming Card,Accessories,2,249,Soho,Debit,90477463.0,2025-12-11 03:40
+5194,Lisa Wong,Meta Quest 4 VR Headset,VR,1,499,Soho,Debit,90477463.0,2025-12-11 03:40
+5195,,Google Pixel 10 Pro,Phones,2,999,Oxford,Card,42188123.0,2025/12/11 03:47
+5195,,Samsung Galaxy S25 Ultra,Phones,2,1199,Oxford,Card,42188123.0,2025/12/11 03:47
+5196,,Dyson V16 Vacuum,Appliances,1,699,Soho,Cash,,11-12-25 03:51
+5196,,Sony A7V Camera,Cameras,1,2499,Soho,Cash,,11-12-25 03:51
+5196,,Meta Quest 4 VR Headset,VR,1,499,Soho,Cash,,11-12-25 03:51
+5197,Johnny Reed,Google Pixel 10 Pro,Phones,2,999,Oxford,Cash,,2025/12/11 03:59
+5197,Johnny Reed,Xbox Series X2,Gaming,1,649,Oxford,Cash,,2025/12/11 03:59
+5198,Tom Brown,LG OLED Evo G5 65-inch,TV,1,2499,Camden,Debit,32858103.0,2025-12-11 04:03
+5199,Tom Brown,iPhone 17 Pro Max,Phones,2,1299,Soho,Credit,73879836.0,11-12-25 04:05
+5199,Tom Brown,Xbox Series X2,Gaming,1,649,Soho,Credit,73879836.0,11-12-25 04:05
+5200,,Portable SSD 4TB Gen4,Storage,1,249, Oxford ,Credit,,11-12-25 04:06
+5200,,Sony WH‑1000XM7,Audio,2,399, Oxford ,Credit,98727137.0,11-12-25 04:06
+5200,,MacBook Pro M4 Pro,Laptops,1,2499, Oxford ,Credit,98727137.0,11-12-25 04:06
+5200,,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Oxford ,Credit,98727137.0,11-12-25 04:06
+5201,Jacob Stone,MacBook Air M4,Laptops,1,1599, Camden ,Credit,44418036.0,11/12/2025 04:13
+5202,Leo Jones,Nintendo Switch 2,Gaming,2,399,Oxford,Card,36515966.0,11-12-25 04:20
+5202,,MacBook Pro M4 Pro,Laptops,1,2499,Oxford,Card,36515966.0,11-12-25 04:20
+5202,Leo Jones,Canon EOS R9,Cameras,1,1999,Oxford,Card,36515966.0,11-12-25 04:20
+5202,Leo Jones,Meta Quest 4 VR Headset,VR,1,499,Oxford,Card,36515966.0,11-12-25 04:20
+5203,Jacob Stone,Bose QuietComfort Ultra,Audio,1,349,Ealing,Debit,65957197.0,2025-12-11 04:25
+5203,,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Debit,65957197.0,2025-12-11 04:25
+5203,Jacob Stone,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Debit,65957197.0,2025-12-11 04:25
+5203,Jacob Stone,LG OLED Evo G5 65-inch,TV,1,2499,Ealing,Debit,65957197.0,2025-12-11 04:25
+5204,Mia Johnson,Nintendo Switch 2,Gaming,2,399,Camden,Card,72269006.0,2025-12-11 04:31
+5204,,Apple Watch X,Wearables,1,799,Camden,Card,72269006.0,2025-12-11 04:31
+5204,Mia Johnson,Meta Quest 4 VR Headset,VR,2,499,Camden,Card,72269006.0,2025-12-11 04:31
+5205,Emily Clark,USB‑C 240W Cable,Accessories,2,29,Oxford,Credit,34146731.0,11-12-25 04:41
+5205,Emily Clark,Elgato 4K Streaming Card,Accessories,1,249,Oxford,Credit,34146731.0,11-12-25 04:41
+5206,Lisa Wong,Dell XPS 14 OLED 2025,Laptops,2,1899,Camden,Cash,,11/12/2025 04:43
+5206,Lisa Wong,Nintendo Switch 2,Gaming,2,399,Camden,Cash,,11/12/2025 04:43
+5207,Mark Davies,Sony WH‑1000XM7,Audio,1,399,Camden,Credit,89269578.0,2025/12/11 04:44
+5207,Mark Davies,Bose QuietComfort Ultra,Audio,1,349,Camden,Credit,89269578.0,2025/12/11 04:44
+5208,Alex Li,Xbox Series X2,Gaming,2,649, Ealing ,Cash,,2025-12-11 04:49
+5208,Alex Li,Sony WH‑1000XM7,Audio,2,399, Ealing ,Cash,,2025-12-11 04:49
+5208,Alex Li,Sony A7V Camera,Cameras,2,2499, Ealing ,Cash,,2025-12-11 04:49
+5208,Alex Li,Dell XPS 14 OLED 2025,Laptops,2,1899, Ealing ,Cash,,2025-12-11 04:49
+5209,Leo Jones,Google Pixel 10 Pro,Phones,2,999,Ealing,Card,84010081.0,11-12-25 04:51
+5209,Leo Jones,Bose QuietComfort Ultra,Audio,1,349,Ealing,Card,84010081.0,11-12-25 04:51
+5209,Leo Jones,Samsung Galaxy S25 Ultra,Phones,2,1199,Ealing,Card,84010081.0,11-12-25 04:51
+5209,Leo Jones,Bose QuietComfort Ultra,Audio,1,349,Ealing,Card,84010081.0,11-12-25 04:51
+5210,Tom Brown,Elgato 4K Streaming Card,Accessories,2,249,Soho,Debit,37708269.0,11-12-25 04:54
+5210,Tom Brown,MacBook Air M4,Laptops,1,1599,Soho,Debit,37708269.0,11-12-25 04:54
+5210,Tom Brown,LG OLED Evo G5 65-inch,TV,2,2499,Soho,Debit,37708269.0,11-12-25 04:54
+5210,,Dell XPS 14 OLED 2025,Laptops,2,1899,Soho,Debit,37708269.0,11-12-25 04:54
+5211,Johnny Reed,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Camden,Credit,68358569.0,11-12-25 04:56
+5211,Johnny Reed,Meta Quest 4 VR Headset,VR,2,499,Camden,Credit,68358569.0,11-12-25 04:56
+5211,Johnny Reed,Dell XPS 14 OLED 2025,Laptops,1,1899,Camden,Credit,68358569.0,11-12-25 04:56
+5211,Johnny Reed,USB‑C 240W Cable,Accessories,1,29,Camden,Credit,68358569.0,11-12-25 04:56
+5212,,Sony WH‑1000XM7,Audio,2,399,Soho,Debit,55678124.0,11/12/2025 04:59
+5212,,Dyson V16 Vacuum,Appliances,1,699,Soho,Debit,55678124.0,11/12/2025 04:59
+5212,Lisa Wong,Portable SSD 4TB Gen4,Storage,1,249,Soho,Debit,,11/12/2025 04:59
+5213,Emily Clark,MacBook Air M4,Laptops,1,1599,Ealing,Credit,54586669.0,11/12/2025 05:01
+5214,Jacob Stone,Google Pixel 10 Pro,Phones,2,999,Soho,Cash,,2025/12/11 05:03
+5215,Mark Davies,Sony A7V Camera,Cameras,1,2499,Soho,Cash,,11/12/2025 05:07
+5215,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Cash,,11/12/2025 05:07
+5215,Mark Davies,Samsung Galaxy S25 Ultra,Phones,1,1199,Soho,Cash,,11/12/2025 05:07
+5216,Tom Brown,Sony WH‑1000XM7,Audio,2,399, Oxford ,Credit,13309761.0,11-12-25 05:09
+5216,Tom Brown,Apple Watch X,Wearables,2,799, Oxford ,Credit,13309761.0,11-12-25 05:09
+5217,John Smith,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Credit,40141604.0,2025-12-11 05:16
+5217,John Smith,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Credit,40141604.0,2025-12-11 05:16
+5217,,Elgato 4K Streaming Card,Accessories,1,249,Oxford,Credit,40141604.0,2025-12-11 05:16
+5218,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Oxford,Credit,84056763.0,11-12-25 05:24
+5218,Lisa Wong,Sony A7V Camera,Cameras,1,2499,Oxford,Credit,84056763.0,11-12-25 05:24
+5218,Lisa Wong,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Credit,84056763.0,11-12-25 05:24
+5218,Lisa Wong,Google Pixel 10 Pro,Phones,2,999,,Credit,84056763.0,11-12-25 05:24
+5219,Mark Davies,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Debit,56542174.0,11-12-25 05:33
+5219,Mark Davies,Elgato 4K Streaming Card,Accessories,2,249,Ealing,Debit,56542174.0,11-12-25 05:33
+5220,Emily Clark,Nintendo Switch 2,Gaming,2,399,Oxford,Debit,24178479.0,11-12-25 05:40
+5221,Alex Li,MacBook Air M4,Laptops,1,1599, Camden ,Cash,,2025-12-11 05:49
+5221,Alex Li,Sony WH‑1000XM7,Audio,2,399, Camden ,Cash,,2025-12-11 05:49
+5222,James White,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Credit,4315238.0,11-12-25 05:57
+5223,Emily Clark,Sony A7V Camera,Cameras,1,2499,Soho,Debit,52382712.0,2025/12/11 05:59
+5223,Emily Clark,Elgato 4K Streaming Card,Accessories,1,249,Soho,Debit,52382712.0,2025/12/11 05:59
+5223,Emily Clark,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Debit,52382712.0,2025/12/11 05:59
+5224,Leo Jones,MacBook Air M4,Laptops,2,1599,Ealing,Cash,,2025/12/11 06:00
+5224,Leo Jones,Meta Quest 4 VR Headset,VR,2,499,Ealing,Cash,,2025/12/11 06:00
+5224,Leo Jones,Nvidia RTX 5090 GPU,PC Components,1,1999,Ealing,Cash,,2025/12/11 06:00
+5225,,Xbox Series X2,Gaming,2,649,Ealing,Cash,,2025/12/11 06:04
+5225,,iPhone 17 Pro Max,Phones,2,1299,Ealing,Cash,,2025/12/11 06:04
+5225,,Sony WH‑1000XM7,Audio,1,399,Ealing,Cash,,2025/12/11 06:04
+5225,,Bose QuietComfort Ultra,Audio,1,349,Ealing,Cash,,2025/12/11 06:04
+5226,Tom Brown,Samsung Galaxy S25 Ultra,Phones,2,1199, Soho ,Debit,81614018.0,2025/12/11 06:10
+5226,Tom Brown,Dyson V16 Vacuum,Appliances,1,699, Soho ,Debit,81614018.0,2025/12/11 06:10
+5227,Tom Brown,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Cash,,2025-12-11 06:14
+5227,Tom Brown,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Cash,,2025-12-11 06:14
+5227,Tom Brown,Sony WH‑1000XM7,Audio,2,399,Ealing,Cash,,2025-12-11 06:14
+5227,Tom Brown,LG OLED Evo G5 65-inch,TV,1,2499,Ealing,Cash,,2025-12-11 06:14
+5228,Jacob Stone,PlayStation 5 Pro Console,Gaming,1,699,Oxford,Cash,,11-12-25 06:17
+5228,Jacob Stone,Elgato 4K Streaming Card,Accessories,1,249,Oxford,Cash,,11-12-25 06:17
+5228,Jacob Stone,Dyson V16 Vacuum,Appliances,1,699,Oxford,Cash,,11-12-25 06:17
+5229,,Google Pixel 10 Pro,Phones,2,999,Soho,Credit,1203134.0,2025-12-11 06:25
+5230,Leo Jones,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Camden,Debit,81227841.0,11-12-25 06:28
+5231,Lisa Wong,PlayStation 5 Pro Console,Gaming,1,699,Camden,Cash,,11/12/2025 06:30
+5232,,PlayStation 5 Pro Console,Gaming,2,699,Oxford,Card,81233183.0,2025-12-11 06:33
+5232,Mark Davies,USB‑C 240W Cable,Accessories,2,29,Oxford,Card,81233183.0,2025-12-11 06:33
+5233,Mia Johnson,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Debit,20666869.0,2025-12-11 06:43
+5233,Mia Johnson,Elgato 4K Streaming Card,Accessories,1,249,Oxford,Debit,20666869.0,2025-12-11 06:43
+5233,Mia Johnson,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Debit,20666869.0,2025-12-11 06:43
+5234,Sarah Mills,PlayStation 5 Pro Console,Gaming,1,699,SoHo,Credit,,2025-12-11 06:53
+5234,Sarah Mills,Sony WH‑1000XM7,Audio,2,399,SoHo,Credit,92677397.0,2025-12-11 06:53
+5235,Lisa Wong,Xbox Series X2,Gaming,2,649,Camden,Credit,23890526.0,11/12/2025 06:54
+5235,Lisa Wong,Portable SSD 4TB Gen4,Storage,2,249,Camden,Credit,23890526.0,11/12/2025 06:54
+5235,Lisa Wong,Canon EOS R9,Cameras,1,1999,Camden,Credit,23890526.0,11/12/2025 06:54
+5236,John Smith,Google Pixel 10 Pro,Phones,1,999,SoHo,Card,48122405.0,2025/12/11 07:03
+5236,John Smith,Samsung QD‑OLED S95D 55-inch,TV,1,1999,SoHo,Card,48122405.0,2025/12/11 07:03
+5236,John Smith,Dyson V16 Vacuum,Appliances,1,699,SoHo,Card,,2025/12/11 07:03
+5236,John Smith,iPhone 17 Pro Max,Phones,1,1299,SoHo,Card,48122405.0,2025/12/11 07:03
+5237,Emily Clark,Dell XPS 14 OLED 2025,Laptops,1,1899,Oxford,Cash,,11-12-25 07:11
+5237,Emily Clark,Dell XPS 14 OLED 2025,Laptops,2,1899,Oxford,Cash,,11-12-25 07:11
+5238,Sarah Mills,Meta Quest 4 VR Headset,VR,1,499,Soho,Card,21916941.0,11-12-25 07:18
+5238,Sarah Mills,Canon EOS R9,Cameras,2,1999,Soho,Card,21916941.0,11-12-25 07:18
+5238,Sarah Mills,Sony A7V Camera,Cameras,1,2499,Soho,Card,21916941.0,11-12-25 07:18
+5238,Sarah Mills,Sony A7V Camera,Cameras,2,2499,Soho,Card,21916941.0,11-12-25 07:18
+5239,Emily Clark,Dyson V16 Vacuum,Appliances,1,699,Ealing,Card,2461170.0,2025/12/11 07:22
+5239,Emily Clark,Canon EOS R9,Cameras,1,1999,Ealing,Card,2461170.0,2025/12/11 07:22
+5239,Emily Clark,Dyson V16 Vacuum,Appliances,2,699,Ealing,Card,2461170.0,2025/12/11 07:22
+5240,Leo Jones,Apple Watch X,Wearables,1,799,Soho,Card,6263719.0,2025-12-11 07:27
+5240,Leo Jones,Elgato 4K Streaming Card,Accessories,2,249,Soho,Card,6263719.0,2025-12-11 07:27
+5240,,Canon EOS R9,Cameras,2,1999,Soho,Card,6263719.0,2025-12-11 07:27
+5240,Leo Jones,Bose QuietComfort Ultra,Audio,2,349,Soho,Card,6263719.0,2025-12-11 07:27
+5241,Emily Clark,Nintendo Switch 2,Gaming,1,399,Ealing,Credit,50663356.0,11/12/2025 07:33
+5241,Emily Clark,Nvidia RTX 5090 GPU,PC Components,1,1999,Ealing,Credit,50663356.0,11/12/2025 07:33
+5241,Emily Clark,Meta Quest 4 VR Headset,VR,2,499,Ealing,Credit,50663356.0,11/12/2025 07:33
+5242,Jacob Stone,PlayStation 5 Pro Console,Gaming,1,699,Soho,Credit,52418963.0,2025/12/11 07:35
+5242,Jacob Stone,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Credit,52418963.0,2025/12/11 07:35
+5242,Jacob Stone,Elgato 4K Streaming Card,Accessories,2,249,Soho,Credit,52418963.0,2025/12/11 07:35
+5242,Jacob Stone,USB‑C 240W Cable,Accessories,2,29,Soho,Credit,52418963.0,2025/12/11 07:35
+5243,Mark Davies,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Cash,,11-12-25 07:44
+5243,Mark Davies,Apple Watch X,Wearables,2,799,Soho,Cash,,11-12-25 07:44
+5244,Tom Brown,Nvidia RTX 5090 GPU,PC Components,1,1999,SoHo,Debit,46999179.0,2025/12/11 07:49
+5244,Tom Brown,Samsung QD‑OLED S95D 55-inch,TV,2,1999,SoHo,Debit,46999179.0,2025/12/11 07:49
+5244,Tom Brown,Samsung QD‑OLED S95D 55-inch,TV,2,1999,SoHo,Debit,46999179.0,2025/12/11 07:49
+5245,Lisa Wong,Bose QuietComfort Ultra,Audio,1,349,Ealing,Credit,6199053.0,2025/12/11 07:57
+5245,Lisa Wong,MacBook Pro M4 Pro,Laptops,2,2499,Ealing,Credit,6199053.0,2025/12/11 07:57
+5245,Lisa Wong,MacBook Air M4,Laptops,2,1599,Ealing,Credit,6199053.0,2025/12/11 07:57
+5246,Jacob Stone,MacBook Air M4,Laptops,2,1599,Oxford,Credit,,2025/12/11 08:03
+5246,Jacob Stone,Google Pixel 10 Pro,Phones,1,999,Oxford,Credit,81536366.0,2025/12/11 08:03
+5247,Emily Clark,iPhone 17 Pro Max,Phones,2,1299,Camden,Card,51867527.0,11-12-25 08:05
+5248,John Smith,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Card,58968595.0,11/12/2025 08:15
+5248,John Smith,Google Pixel 10 Pro,Phones,1,999,Oxford,Card,58968595.0,11/12/2025 08:15
+5248,John Smith,Apple Watch X,Wearables,1,799,Oxford,Card,58968595.0,11/12/2025 08:15
+5249,Mark Davies,MacBook Pro M4 Pro,Laptops,1,2499,Soho,Debit,79812676.0,11-12-25 08:18
+5250,Jacob Stone,Canon EOS R9,Cameras,2,1999,Ealing,Debit,25607543.0,11/12/2025 08:24
+5250,Jacob Stone,Canon EOS R9,Cameras,1,1999,Ealing,Debit,25607543.0,11/12/2025 08:24
+5250,Jacob Stone,iPhone 17 Pro Max,Phones,1,1299,Ealing,Debit,25607543.0,11/12/2025 08:24
+5250,Jacob Stone,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Debit,25607543.0,11/12/2025 08:24
+5251,,Samsung Galaxy S25 Ultra,Phones,2,1199,,Cash,,2025/12/11 08:25
+5251,,Portable SSD 4TB Gen4,Storage,1,249,Oxford,Cash,,2025/12/11 08:25
+5252,Tom Brown,Xbox Series X2,Gaming,1,649,Soho,Credit,57581717.0,2025/12/11 08:30
+5252,Tom Brown,Elgato 4K Streaming Card,Accessories,1,249,Soho,Credit,57581717.0,2025/12/11 08:30
+5252,Tom Brown,Apple Watch X,Wearables,2,799,Soho,Credit,57581717.0,2025/12/11 08:30
+5253,Alice Moore,Nvidia RTX 5090 GPU,PC Components,1,1999,Ealing,Card,76214398.0,11-12-25 08:35
+5253,Alice Moore,iPhone 17 Pro Max,Phones,2,1299,Ealing,Card,76214398.0,11-12-25 08:35
+5253,Alice Moore,Apple Watch X,Wearables,2,799,Ealing,Card,76214398.0,11-12-25 08:35
+5253,Alice Moore,USB‑C 240W Cable,Accessories,1,29,Ealing,Card,76214398.0,11-12-25 08:35
+5254,James White,MacBook Pro M4 Pro,Laptops,2,2499,Ealing,Cash,,11/12/2025 08:42
+5254,James White,Canon EOS R9,Cameras,1,1999,Ealing,Cash,,11/12/2025 08:42
+5255,Leo Jones,PlayStation 5 Pro Console,Gaming,1,699,Soho,Card,58153626.0,2025-12-11 08:44
+5255,Leo Jones,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Card,58153626.0,2025-12-11 08:44
+5255,Leo Jones,Meta Quest 4 VR Headset,VR,2,499,Soho,Card,58153626.0,2025-12-11 08:44
+5256,,Portable SSD 4TB Gen4,Storage,1,249,Soho,Cash,,2025/12/11 08:45
+5256,,Canon EOS R9,Cameras,1,1999,Soho,Cash,,2025/12/11 08:45
+5256,,Portable SSD 4TB Gen4,Storage,2,249,Soho,Cash,,2025/12/11 08:45
+5256,,MacBook Air M4,Laptops,2,1599,Soho,Cash,,2025/12/11 08:45
+5257,Mia Johnson,Portable SSD 4TB Gen4,Storage,2,249,Ealing,Debit,,11/12/2025 08:46
+5257,Mia Johnson,Meta Quest 4 VR Headset,VR,1,499,Ealing,Debit,30583534.0,11/12/2025 08:46
+5257,Mia Johnson,iPhone 17 Pro Max,Phones,1,1299,Ealing,Debit,30583534.0,11/12/2025 08:46
+5258,Lisa Wong,MacBook Air M4,Laptops,1,1599,Camden,Debit,,11-12-25 08:52
+5258,Lisa Wong,USB‑C 240W Cable,Accessories,1,29,Camden,Debit,17721834.0,11-12-25 08:52
+5258,Lisa Wong,USB‑C 240W Cable,Accessories,1,29,Camden,Debit,17721834.0,11-12-25 08:52
+5259,,Apple Watch X,Wearables,1,799,Soho,Cash,,11/12/2025 08:53
+5259,Lisa Wong,Sony WH‑1000XM7,Audio,2,399,Soho,Cash,,11/12/2025 08:53
+5259,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Cash,,11/12/2025 08:53
+5260,Mark Davies,Google Pixel 10 Pro,Phones,2,999,Ealing,Card,3104388.0,2025/12/11 08:58
+5260,,USB‑C 240W Cable,Accessories,1,29,Ealing,Card,3104388.0,2025/12/11 08:58
+5260,Mark Davies,Nvidia RTX 5090 GPU,PC Components,1,1999,Ealing,Card,3104388.0,2025/12/11 08:58
+5260,Mark Davies,Dell XPS 14 OLED 2025,Laptops,2,1899,Ealing,Card,3104388.0,2025/12/11 08:58
+5261,John Smith,Google Pixel 10 Pro,Phones,1,999,Soho,Card,21118077.0,2025-12-11 09:08
+5261,John Smith,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Card,21118077.0,2025-12-11 09:08
+5261,John Smith,USB‑C 240W Cable,Accessories,1,29,Soho,Card,21118077.0,2025-12-11 09:08
+5261,John Smith,Meta Quest 4 VR Headset,VR,2,499,Soho,Card,21118077.0,2025-12-11 09:08
+5262,Johnny Reed,Samsung Galaxy S25 Ultra,Phones,1,1199,Oxford,Debit,74142565.0,11-12-25 09:11
+5262,Johnny Reed,iPhone 17 Pro Max,Phones,2,1299,Oxford,Debit,74142565.0,11-12-25 09:11
+5262,Johnny Reed,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Debit,74142565.0,11-12-25 09:11
+5262,Johnny Reed,Google Pixel 10 Pro,Phones,1,999,Oxford,Debit,74142565.0,11-12-25 09:11
+5263,Alice Moore,Samsung Galaxy S25 Ultra,Phones,1,1199,Oxford,Credit,21516695.0,2025/12/11 09:14
+5263,Alice Moore,Xbox Series X2,Gaming,1,649,Oxford,Credit,21516695.0,2025/12/11 09:14
+5263,Alice Moore,Xbox Series X2,Gaming,2,649,Oxford,Credit,21516695.0,2025/12/11 09:14
+5263,Alice Moore,Portable SSD 4TB Gen4,Storage,1,249,Oxford,Credit,21516695.0,2025/12/11 09:14
+5264,Lisa Wong,LG OLED Evo G5 65-inch,TV,2,2499, Oxford ,Cash,,11-12-25 09:24
+5264,Lisa Wong,Dell XPS 14 OLED 2025,Laptops,2,1899, Oxford ,Cash,,11-12-25 09:24
+5264,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Oxford ,Cash,,11-12-25 09:24
+5265,Alex Li,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Card,21735411.0,2025-12-11 09:28
+5265,Alex Li,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Card,21735411.0,2025-12-11 09:28
+5265,Alex Li,Nintendo Switch 2,Gaming,2,399,Soho,Card,21735411.0,2025-12-11 09:28
+5266,Leo Jones,PlayStation 5 Pro Console,Gaming,2,699,SoHo,Debit,65122526.0,11/12/2025 09:36
+5266,Leo Jones,iPhone 17 Pro Max,Phones,2,1299,SoHo,Debit,65122526.0,11/12/2025 09:36
+5266,Leo Jones,Xbox Series X2,Gaming,1,649,SoHo,Debit,65122526.0,11/12/2025 09:36
+5266,Leo Jones,Sony WH‑1000XM7,Audio,1,399,SoHo,Debit,65122526.0,11/12/2025 09:36
+5267,Johnny Reed,MacBook Air M4,Laptops,2,1599, Ealing ,Credit,59612348.0,2025-12-11 09:41
+5267,Johnny Reed,LG OLED Evo G5 65-inch,TV,1,2499,,Credit,59612348.0,2025-12-11 09:41
+5267,Johnny Reed,Sony A7V Camera,Cameras,1,2499, Ealing ,Credit,59612348.0,2025-12-11 09:41
+5267,Johnny Reed,LG OLED Evo G5 65-inch,TV,1,2499, Ealing ,Credit,59612348.0,2025-12-11 09:41
+5268,Sarah Mills,Nintendo Switch 2,Gaming,1,399,Camden,Card,75043089.0,2025-12-11 09:50
+5268,Sarah Mills,Sony WH‑1000XM7,Audio,1,399,Camden,Card,75043089.0,2025-12-11 09:50
+5268,Sarah Mills,USB‑C 240W Cable,Accessories,1,29,Camden,Card,75043089.0,2025-12-11 09:50
+5269,Alex Li,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Debit,84961187.0,11-12-25 10:00
+5269,Alex Li,Meta Quest 4 VR Headset,VR,2,499,Oxford,Debit,84961187.0,11-12-25 10:00
+5269,Alex Li,iPhone 17 Pro Max,Phones,1,1299,Oxford,Debit,84961187.0,11-12-25 10:00
+5269,Alex Li,PlayStation 5 Pro Console,Gaming,2,699,Oxford,Debit,84961187.0,11-12-25 10:00
+5270,Emily Clark,Samsung Galaxy S25 Ultra,Phones,2,1199,Oxford,Card,73126463.0,2025-12-11 10:08
+5270,Emily Clark,Dyson V16 Vacuum,Appliances,2,699,Oxford,Card,73126463.0,2025-12-11 10:08
+5270,Emily Clark,Portable SSD 4TB Gen4,Storage,1,249,Oxford,Card,73126463.0,2025-12-11 10:08
+5271,Mia Johnson,Nintendo Switch 2,Gaming,2,399,Oxford,Debit,57699363.0,11/12/2025 10:15
+5271,,Bose QuietComfort Ultra,Audio,1,349,Oxford,Debit,57699363.0,11/12/2025 10:15
+5271,,Dyson V16 Vacuum,Appliances,1,699,Oxford,Debit,57699363.0,11/12/2025 10:15
+5271,Mia Johnson,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Debit,57699363.0,11/12/2025 10:15
+5272,Emily Clark,iPhone 17 Pro Max,Phones,1,1299,Oxford,Credit,26577700.0,2025-12-11 10:19
+5272,Emily Clark,Xbox Series X2,Gaming,2,649,Oxford,Credit,26577700.0,2025-12-11 10:19
+5272,Emily Clark,Meta Quest 4 VR Headset,VR,2,499,Oxford,Credit,26577700.0,2025-12-11 10:19
+5272,Emily Clark,Meta Quest 4 VR Headset,VR,1,499,Oxford,Credit,26577700.0,2025-12-11 10:19
+5273,,Google Pixel 10 Pro,Phones,2,999,Oxford,Credit,4427642.0,2025-12-11 10:24
+5274,,iPhone 17 Pro Max,Phones,2,1299,Oxford,Credit,21002267.0,11/12/2025 10:31
+5274,,Sony A7V Camera,Cameras,1,2499,Oxford,Credit,21002267.0,11/12/2025 10:31
+5275,Mark Davies,Canon EOS R9,Cameras,1,1999,SoHo,Cash,,11/12/2025 10:39
+5275,Mark Davies,Sony A7V Camera,Cameras,1,2499,SoHo,Cash,,11/12/2025 10:39
+5276,John Smith,Apple Watch X,Wearables,2,799,SoHo,Cash,,2025-12-11 10:46
+5276,John Smith,Elgato 4K Streaming Card,Accessories,2,249,SoHo,Cash,,2025-12-11 10:46
+5277,Alex Li,iPhone 17 Pro Max,Phones,2,1299,Ealing,Debit,36960502.0,2025-12-11 10:53
+5277,Alex Li,iPhone 17 Pro Max,Phones,2,1299,Ealing,Debit,36960502.0,2025-12-11 10:53
+5277,Alex Li,Xbox Series X2,Gaming,2,649,Ealing,Debit,36960502.0,2025-12-11 10:53
+5278,Mark Davies,MacBook Air M4,Laptops,1,1599,Oxford,Debit,2485125.0,2025/12/11 10:59
+5278,Mark Davies,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Oxford,Debit,2485125.0,2025/12/11 10:59
+5279,Lisa Wong,Meta Quest 4 VR Headset,VR,1,499,Soho,Credit,71520413.0,2025/12/11 11:00
+5279,Lisa Wong,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Soho,Credit,71520413.0,2025/12/11 11:00
+5279,Lisa Wong,Dyson V16 Vacuum,Appliances,2,699,Soho,Credit,71520413.0,2025/12/11 11:00
+5280,,USB‑C 240W Cable,Accessories,1,29,Soho,Debit,57353970.0,11-12-25 11:10
+5281,James White,MacBook Pro M4 Pro,Laptops,1,2499,Soho,Cash,,2025-12-11 11:18
+5281,James White,Sony WH‑1000XM7,Audio,2,399,Soho,Cash,,2025-12-11 11:18
+5281,James White,Sony A7V Camera,Cameras,2,2499,Soho,Cash,,2025-12-11 11:18
+5281,James White,Nvidia RTX 5090 GPU,PC Components,2,1999,Soho,Cash,,2025-12-11 11:18
+5282,Mia Johnson,Sony A7V Camera,Cameras,1,2499, Soho ,Credit,80882239.0,2025-12-11 11:27
+5282,Mia Johnson,Samsung QD‑OLED S95D 55-inch,TV,1,1999, Soho ,Credit,,2025-12-11 11:27
+5282,Mia Johnson,Google Pixel 10 Pro,Phones,1,999, Soho ,Credit,80882239.0,2025-12-11 11:27
+5282,Mia Johnson,Nvidia RTX 5090 GPU,PC Components,2,1999, Soho ,Credit,80882239.0,2025-12-11 11:27
+5283,Mark Davies,Dyson V16 Vacuum,Appliances,2,699,Soho,Cash,,11-12-25 11:32
+5283,Mark Davies,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Cash,,11-12-25 11:32
+5283,Mark Davies,Portable SSD 4TB Gen4,Storage,1,249,Soho,Cash,,11-12-25 11:32
+5283,Mark Davies,Google Pixel 10 Pro,Phones,1,999,Soho,Cash,,11-12-25 11:32
+5284,Johnny Reed,USB‑C 240W Cable,Accessories,2,29,Soho,Card,99419664.0,2025/12/11 11:41
+5285,Leo Jones,LG OLED Evo G5 65-inch,TV,1,2499,Camden,Card,,2025-12-11 11:42
+5285,Leo Jones,Dell XPS 14 OLED 2025,Laptops,2,1899,Camden,Card,4247490.0,2025-12-11 11:42
+5285,Leo Jones,Samsung QD‑OLED S95D 55-inch,TV,1,1999,,Card,4247490.0,2025-12-11 11:42
+5286,Alice Moore,iPhone 17 Pro Max,Phones,1,1299,Ealing,Card,38789932.0,11/12/2025 11:47
+5286,Alice Moore,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Card,38789932.0,11/12/2025 11:47
+5287,Mia Johnson,LG OLED Evo G5 65-inch,TV,2,2499,Camden,Debit,44599958.0,11/12/2025 11:52
+5287,Mia Johnson,Samsung Galaxy S25 Ultra,Phones,2,1199,Camden,Debit,44599958.0,11/12/2025 11:52
+5287,Mia Johnson,USB‑C 240W Cable,Accessories,2,29,Camden,Debit,44599958.0,11/12/2025 11:52
+5288,Lisa Wong,MacBook Pro M4 Pro,Laptops,1,2499,Camden,Debit,81477079.0,2025-12-11 11:53
+5288,Lisa Wong,Elgato 4K Streaming Card,Accessories,1,249,Camden,Debit,81477079.0,2025-12-11 11:53
+5288,Lisa Wong,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Debit,81477079.0,2025-12-11 11:53
+5289,,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Debit,5608162.0,2025/12/11 11:54
+5289,John Smith,MacBook Pro M4 Pro,Laptops,2,2499,Ealing,Debit,5608162.0,2025/12/11 11:54
+5289,,LG OLED Evo G5 65-inch,TV,1,2499,Ealing,Debit,5608162.0,2025/12/11 11:54
+5289,John Smith,iPhone 17 Pro Max,Phones,2,1299,Ealing,Debit,5608162.0,2025/12/11 11:54
+5290,Mia Johnson,Samsung Galaxy S25 Ultra,Phones,1,1199,Ealing,Card,31874164.0,2025/12/11 11:56
+5290,Mia Johnson,Canon EOS R9,Cameras,1,1999,Ealing,Card,31874164.0,2025/12/11 11:56
+5290,Mia Johnson,Bose QuietComfort Ultra,Audio,2,349,Ealing,Card,31874164.0,2025/12/11 11:56
+5291,Mark Davies,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Credit,68231765.0,11/12/2025 11:57
+5292,,Bose QuietComfort Ultra,Audio,2,349,Oxford,Credit,,11-12-25 12:03
+5293,Jacob Stone,MacBook Air M4,Laptops,1,1599,Camden,Debit,93358003.0,11-12-25 12:11
+5293,Jacob Stone,Dyson V16 Vacuum,Appliances,2,699,Camden,Debit,93358003.0,11-12-25 12:11
+5294,,PlayStation 5 Pro Console,Gaming,2,699,Camden,Credit,2869895.0,2025/12/11 12:12
+5295,Mia Johnson,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Credit,49621340.0,11-12-25 12:14
+5295,Mia Johnson,MacBook Air M4,Laptops,1,1599,Soho,Credit,49621340.0,11-12-25 12:14
+5295,Mia Johnson,Apple Watch X,Wearables,1,799,Soho,Credit,49621340.0,11-12-25 12:14
+5296,,Apple Watch X,Wearables,2,799,Camden,Debit,11707822.0,11-12-25 12:15
+5296,,Elgato 4K Streaming Card,Accessories,1,249,Camden,Debit,11707822.0,11-12-25 12:15
+5296,,Dell XPS 14 OLED 2025,Laptops,1,1899,,Debit,11707822.0,11-12-25 12:15
+5297,James White,Elgato 4K Streaming Card,Accessories,1,249,Camden,Debit,88522934.0,2025-12-11 12:21
+5297,James White,Apple Watch X,Wearables,1,799,Camden,Debit,88522934.0,2025-12-11 12:21
+5297,James White,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Debit,88522934.0,2025-12-11 12:21
+5297,James White,MacBook Pro M4 Pro,Laptops,2,2499,Camden,Debit,88522934.0,2025-12-11 12:21
+5298,Alice Moore,Sony WH‑1000XM7,Audio,2,399, Soho ,Cash,,2025/12/11 12:24
+5299,Alex Li,Portable SSD 4TB Gen4,Storage,1,249,Oxford,Debit,71575327.0,2025/12/11 12:32
+5300,Alice Moore,Portable SSD 4TB Gen4,Storage,1,249,Ealing,Credit,42337693.0,2025/12/11 12:41
+5300,Alice Moore,Google Pixel 10 Pro,Phones,1,999,Ealing,Credit,42337693.0,2025/12/11 12:41
+5300,Alice Moore,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Credit,42337693.0,2025/12/11 12:41
+5300,,Meta Quest 4 VR Headset,VR,2,499,Ealing,Credit,42337693.0,2025/12/11 12:41
+5301,,Apple Watch X,Wearables,2,799,Oxford,Card,55184522.0,11-12-25 12:51
+5301,James White,Nvidia RTX 5090 GPU,PC Components,1,1999,Oxford,Card,55184522.0,11-12-25 12:51
+5301,James White,PlayStation 5 Pro Console,Gaming,1,699,Oxford,Card,55184522.0,11-12-25 12:51
+5302,,Meta Quest 4 VR Headset,VR,1,499, Soho ,Debit,3045097.0,11/12/2025 13:00
+5302,,Canon EOS R9,Cameras,2,1999, Soho ,Debit,3045097.0,11/12/2025 13:00
+5303,Alice Moore,LG OLED Evo G5 65-inch,TV,2,2499,Soho,Card,18354210.0,11-12-25 13:09
+5303,Alice Moore,Samsung Galaxy S25 Ultra,Phones,2,1199,Soho,Card,,11-12-25 13:09
+5303,,MacBook Pro M4 Pro,Laptops,2,2499,Soho,Card,18354210.0,11-12-25 13:09
+5303,Alice Moore,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Card,,11-12-25 13:09
+5304,Johnny Reed,Nvidia RTX 5090 GPU,PC Components,2,1999,Oxford,Credit,39370725.0,2025/12/11 13:19
+5305,Sarah Mills,Dyson V16 Vacuum,Appliances,2,699,Soho,Debit,81880526.0,2025-12-11 13:26
+5305,Sarah Mills,Nvidia RTX 5090 GPU,PC Components,1,1999,Soho,Debit,81880526.0,2025-12-11 13:26
+5305,Sarah Mills,Canon EOS R9,Cameras,2,1999,Soho,Debit,81880526.0,2025-12-11 13:26
+5306,Leo Jones,USB‑C 240W Cable,Accessories,2,29,CamDn,Credit,26263773.0,11/12/2025 13:30
+5307,Emily Clark,Sony WH‑1000XM7,Audio,1,399,Soho,Cash,,11/12/2025 13:37
+5308,,LG OLED Evo G5 65-inch,TV,2,2499,Oxford,Card,68098464.0,11/12/2025 13:47
+5308,,LG OLED Evo G5 65-inch,TV,1,2499,Oxford,Card,68098464.0,11/12/2025 13:47
+5309,Mark Davies,Elgato 4K Streaming Card,Accessories,2,249,Oxford,Card,70756724.0,11/12/2025 13:51
+5310,,Meta Quest 4 VR Headset,VR,1,499, Ealing ,Debit,10768397.0,11/12/2025 13:52
+5310,,MacBook Air M4,Laptops,2,1599, Ealing ,Debit,10768397.0,11/12/2025 13:52
+5311,Alex Li,Apple Watch X,Wearables,1,799,Soho,Credit,60316653.0,2025/12/11 13:57
+5311,Alex Li,Apple Watch X,Wearables,1,799,Soho,Credit,60316653.0,2025/12/11 13:57
+5311,Alex Li,Google Pixel 10 Pro,Phones,2,999,Soho,Credit,60316653.0,2025/12/11 13:57
+5311,Alex Li,PlayStation 5 Pro Console,Gaming,1,699,Soho,Credit,60316653.0,2025/12/11 13:57
+5312,Johnny Reed,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Camden,Cash,,11/12/2025 14:06
+5312,Johnny Reed,Xbox Series X2,Gaming,1,649,Camden,Cash,,11/12/2025 14:06
+5312,Johnny Reed,Meta Quest 4 VR Headset,VR,2,499,Camden,Cash,,11/12/2025 14:06
+5312,Johnny Reed,Dyson V16 Vacuum,Appliances,2,699,Camden,Cash,,11/12/2025 14:06
+5313,James White,Google Pixel 10 Pro,Phones,2,999,Oxford,Cash,,11-12-25 14:13
+5313,James White,Portable SSD 4TB Gen4,Storage,2,249,Oxford,Cash,,11-12-25 14:13
+5313,James White,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Cash,,11-12-25 14:13
+5313,James White,Sony WH‑1000XM7,Audio,1,399,Oxford,Cash,,11-12-25 14:13
+5314,Emily Clark,Dell XPS 14 OLED 2025,Laptops,2,1899,Ealing,Card,20789045.0,2025/12/11 14:20
+5315,Alice Moore,Sony WH‑1000XM7,Audio,2,399,Camden,Card,,2025-12-11 14:30
+5315,Alice Moore,LG OLED Evo G5 65-inch,TV,2,2499,Camden,Card,31516021.0,2025-12-11 14:30
+5315,Alice Moore,Meta Quest 4 VR Headset,VR,1,499,Camden,Card,,2025-12-11 14:30
+5316,Jacob Stone,Samsung Galaxy S25 Ultra,Phones,2,1199,Soho,Credit,61792971.0,2025/12/11 14:38
+5316,Jacob Stone,Google Pixel 10 Pro,Phones,2,999,Soho,Credit,61792971.0,2025/12/11 14:38
+5317,,iPhone 17 Pro Max,Phones,2,1299,Camden,Debit,44400996.0,11/12/2025 14:39
+5317,,LG OLED Evo G5 65-inch,TV,1,2499,Camden,Debit,44400996.0,11/12/2025 14:39
+5317,,Xbox Series X2,Gaming,1,649,Camden,Debit,44400996.0,11/12/2025 14:39
+5317,,Sony WH‑1000XM7,Audio,1,399,Camden,Debit,44400996.0,11/12/2025 14:39
+5318,Jacob Stone,PlayStation 5 Pro Console,Gaming,1,699,Oxford,Credit,28295174.0,2025/12/11 14:40
+5318,Jacob Stone,Samsung QD‑OLED S95D 55-inch,TV,1,1999,Oxford,Credit,28295174.0,2025/12/11 14:40
+5318,Jacob Stone,Canon EOS R9,Cameras,1,1999,Oxford,Credit,28295174.0,2025/12/11 14:40
+5318,Jacob Stone,Apple Watch X,Wearables,1,799,Oxford,Credit,28295174.0,2025/12/11 14:40
+5319,,Meta Quest 4 VR Headset,VR,1,499,Oxford,Cash,,11/12/2025 14:50
+5319,,Nintendo Switch 2,Gaming,1,399,Oxford,Cash,,11/12/2025 14:50
+5320,Mia Johnson,Dell XPS 14 OLED 2025,Laptops,2,1899,Soho,Card,,11-12-25 14:57
+5320,Mia Johnson,Elgato 4K Streaming Card,Accessories,2,249,Soho,Card,33805732.0,11-12-25 14:57
+5321,,Apple Watch X,Wearables,1,799,Camden,Credit,80173800.0,2025/12/11 15:03
+5322,Alice Moore,Canon EOS R9,Cameras,1,1999,SoHo,Debit,60207859.0,2025/12/11 15:05
+5322,Alice Moore,Google Pixel 10 Pro,Phones,2,999,SoHo,Debit,60207859.0,2025/12/11 15:05
+5322,Alice Moore,Apple Watch X,Wearables,2,799,SoHo,Debit,60207859.0,2025/12/11 15:05
+5323,Lisa Wong,Canon EOS R9,Cameras,1,1999,Camden,Debit,34372981.0,11/12/2025 15:06
+5324,Emily Clark,Portable SSD 4TB Gen4,Storage,2,249,Ealing,Debit,38588885.0,11-12-25 15:14
+5324,Emily Clark,Canon EOS R9,Cameras,2,1999,Ealing,Debit,38588885.0,11-12-25 15:14
+5325,Emily Clark,Apple Watch X,Wearables,2,799,CamDn,Card,71766192.0,2025-12-11 15:20
+5325,Emily Clark,Nintendo Switch 2,Gaming,1,399,CamDn,Card,71766192.0,2025-12-11 15:20
+5325,Emily Clark,Portable SSD 4TB Gen4,Storage,1,249,CamDn,Card,71766192.0,2025-12-11 15:20
+5325,Emily Clark,Samsung QD‑OLED S95D 55-inch,TV,1,1999,CamDn,Card,71766192.0,2025-12-11 15:20
+5326,Leo Jones,Apple Watch X,Wearables,1,799,Oxford,Debit,84095503.0,11-12-25 15:27
+5327,Jacob Stone,Canon EOS R9,Cameras,1,1999,Soho,Credit,22057605.0,11-12-25 15:35
+5327,Jacob Stone,MacBook Air M4,Laptops,1,1599,Soho,Credit,22057605.0,11-12-25 15:35
+5327,Jacob Stone,Elgato 4K Streaming Card,Accessories,1,249,Soho,Credit,22057605.0,11-12-25 15:35
+5328,,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Card,29848001.0,2025-12-11 15:44
+5328,James White,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Card,29848001.0,2025-12-11 15:44
+5328,James White,PlayStation 5 Pro Console,Gaming,2,699,Ealing,Card,29848001.0,2025-12-11 15:44
+5329,,Nintendo Switch 2,Gaming,1,399,Ealing,Cash,,2025/12/11 15:48
+5329,,Sony A7V Camera,Cameras,2,2499,Ealing,Cash,,2025/12/11 15:48
+5330,Tom Brown,Canon EOS R9,Cameras,2,1999,Ealing,Cash,,2025/12/11 15:53
+5330,Tom Brown,Portable SSD 4TB Gen4,Storage,1,249,Ealing,Cash,,2025/12/11 15:53
+5330,Tom Brown,Xbox Series X2,Gaming,2,649,Ealing,Cash,,2025/12/11 15:53
+5331,Alice Moore,Nintendo Switch 2,Gaming,1,399,Oxford,Card,3374694.0,2025/12/11 15:56
+5332,Mia Johnson,Google Pixel 10 Pro,Phones,1,999,Soho,Credit,96894413.0,11-12-25 16:04
+5332,Mia Johnson,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Credit,96894413.0,11-12-25 16:04
+5332,Mia Johnson,LG OLED Evo G5 65-inch,TV,1,2499,Soho,Credit,96894413.0,11-12-25 16:04
+5333,Emily Clark,Bose QuietComfort Ultra,Audio,1,349,Camden,Card,61790377.0,11-12-25 16:07
+5333,Emily Clark,USB‑C 240W Cable,Accessories,2,29,Camden,Card,61790377.0,11-12-25 16:07
+5333,Emily Clark,Meta Quest 4 VR Headset,VR,1,499,Camden,Card,61790377.0,11-12-25 16:07
+5333,Emily Clark,Meta Quest 4 VR Headset,VR,1,499,Camden,Card,61790377.0,11-12-25 16:07
+5334,Sarah Mills,LG OLED Evo G5 65-inch,TV,1,2499,Ealing,Card,15772609.0,11-12-25 16:08
+5334,,Portable SSD 4TB Gen4,Storage,2,249,Ealing,Card,15772609.0,11-12-25 16:08
+5335,Sarah Mills,Dell XPS 14 OLED 2025,Laptops,2,1899,Soho,Cash,,2025/12/11 16:10
+5335,Sarah Mills,Bose QuietComfort Ultra,Audio,2,349,Soho,Cash,,2025/12/11 16:10
+5335,Sarah Mills,Nintendo Switch 2,Gaming,2,399,Soho,Cash,,2025/12/11 16:10
+5335,Sarah Mills,Canon EOS R9,Cameras,1,1999,Soho,Cash,,2025/12/11 16:10
+5336,,Dyson V16 Vacuum,Appliances,2,699,Ealing,Card,84649077.0,11-12-25 16:11
+5336,,Sony WH‑1000XM7,Audio,1,399,Ealing,Card,84649077.0,11-12-25 16:11
+5337,Jacob Stone,Nintendo Switch 2,Gaming,2,399,Ealing,Cash,,2025/12/11 16:18
+5337,Jacob Stone,Apple Watch X,Wearables,2,799,Ealing,Cash,,2025/12/11 16:18
+5337,Jacob Stone,Dell XPS 14 OLED 2025,Laptops,2,1899,Ealing,Cash,,2025/12/11 16:18
+5338,,Meta Quest 4 VR Headset,VR,1,499,Oxford,Credit,50810269.0,2025-12-11 16:25
+5338,,Bose QuietComfort Ultra,Audio,1,349,Oxford,Credit,50810269.0,2025-12-11 16:25
+5338,,Sony WH‑1000XM7,Audio,1,399,Oxford,Credit,50810269.0,2025-12-11 16:25
+5339,Leo Jones,LG OLED Evo G5 65-inch,TV,2,2499,Camden,Cash,,11/12/2025 16:35
+5340,Mia Johnson,Xbox Series X2,Gaming,2,649,Ealing,Credit,76182392.0,2025/12/11 16:45
+5340,Mia Johnson,MacBook Pro M4 Pro,Laptops,1,2499,Ealing,Credit,76182392.0,2025/12/11 16:45
+5340,Mia Johnson,Samsung QD‑OLED S95D 55-inch,TV,2,1999,Ealing,Credit,76182392.0,2025/12/11 16:45
+5340,Mia Johnson,Bose QuietComfort Ultra,Audio,2,349,Ealing,Credit,76182392.0,2025/12/11 16:45
+5341,Alex Li,Dell XPS 14 OLED 2025,Laptops,1,1899,Soho,Cash,,2025-12-11 16:52
+5341,Alex Li,Nvidia RTX 5090 GPU,PC Components,2,1999,Soho,Cash,,2025-12-11 16:52
+5341,Alex Li,Samsung Galaxy S25 Ultra,Phones,1,1199,Soho,Cash,,2025-12-11 16:52
+5342,Tom Brown,iPhone 17 Pro Max,Phones,1,1299,Ealing,Cash,,2025/12/11 16:58
+5342,Tom Brown,Sony A7V Camera,Cameras,2,2499,Ealing,Cash,,2025/12/11 16:58
+5342,Tom Brown,USB‑C 240W Cable,Accessories,2,29,Ealing,Cash,,2025/12/11 16:58
+5342,Tom Brown,Portable SSD 4TB Gen4,Storage,2,249,Ealing,Cash,,2025/12/11 16:58
+5343,John Smith,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Cash,,11-12-25 17:05
+5343,John Smith,USB‑C 240W Cable,Accessories,2,29,Oxford,Cash,,11-12-25 17:05
+5344,Johnny Reed,Nintendo Switch 2,Gaming,2,399,,Card,71487102.0,2025-12-11 17:13
+5344,Johnny Reed,Dell XPS 14 OLED 2025,Laptops,1,1899,,Card,71487102.0,2025-12-11 17:13
+5345,,Dyson V16 Vacuum,Appliances,1,699,Ealing,Credit,40055963.0,11-12-25 17:17
+5346,,Samsung Galaxy S25 Ultra,Phones,1,1199,Soho,Debit,65802073.0,2025/12/11 17:24
+5347,Lisa Wong,Samsung Galaxy S25 Ultra,Phones,1,1199,Oxford,Credit,97800437.0,2025-12-11 17:34
+5347,Lisa Wong,Xbox Series X2,Gaming,2,649,Oxford,Credit,97800437.0,2025-12-11 17:34
+5347,Lisa Wong,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Credit,97800437.0,2025-12-11 17:34
+5347,Lisa Wong,MacBook Pro M4 Pro,Laptops,2,2499,Oxford,Credit,97800437.0,2025-12-11 17:34
+5348,,Google Pixel 10 Pro,Phones,2,999,Ealing,Cash,,11-12-25 17:44
+5349,Jacob Stone,Dell XPS 14 OLED 2025,Laptops,1,1899,Ealing,Debit,22475582.0,11/12/2025 17:48
+5349,Jacob Stone,Google Pixel 10 Pro,Phones,1,999,Ealing,Debit,22475582.0,11/12/2025 17:48
+5349,Jacob Stone,Nvidia RTX 5090 GPU,PC Components,2,1999,Ealing,Debit,22475582.0,11/12/2025 17:48
+5349,Jacob Stone,USB‑C 240W Cable,Accessories,2,29,Ealing,Debit,,11/12/2025 17:48
+5350,Jacob Stone,Portable SSD 4TB Gen4,Storage,2,249,Camden,Card,93431105.0,2025/12/11 17:53
+5350,Jacob Stone,Bose QuietComfort Ultra,Audio,2,349,Camden,Card,93431105.0,2025/12/11 17:53
