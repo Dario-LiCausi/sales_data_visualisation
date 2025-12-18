@@ -6,6 +6,7 @@ class Transform(ETL):
         super().__init__()
         self.extractor = Extract()
 
+    # split text file data into a dictionary
     def split_lines(self):
         # getting data from file
         extractor = Extract(self.file)
@@ -41,7 +42,7 @@ class Transform(ETL):
                 sales.append(t)
         return sales
         
-    #remove costumer sensible data like name and card number
+    # remove costumer sensible data like name and card number
     def remove_pii(self):
         sales = self.split_lines()
         for trans in sales:
@@ -97,11 +98,11 @@ class Transform(ETL):
             t["date"] = date
             t["time"] = time
             t.pop("timestamp")
-        for t in sales:
-            print(t)
-        # return sales
+        # for t in sales:
+        #     print(t)
+        return sales
 
 # test
-if __name__ == "__main__":
-    transformer = Transform()
-    result = transformer.split_datetime()
+# if __name__ == "__main__":
+#     transformer = Transform()
+#     result = transformer.split_datetime()
