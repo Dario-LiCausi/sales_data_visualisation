@@ -1,3 +1,5 @@
+from etl.load import LoadDB as loader
+etl_process = loader
 """
 This app does:
     .convert a raw data txt file into a clean data csv file
@@ -23,13 +25,13 @@ def main():
             print("\nUnfortunately the function is not implemented yet, soz!\n")
             continue
         elif user_selection == "2":
-            print("\nUnfortunately the function is not implemented yet, soz!\n")
+            loader().run_db()
+            print("\nData cleaned and loaded into database.\n")
             continue
         if user_selection == "0":
             print("\nOk, bye!\n")
             break
 
         print("\nError! Wrong value or selection, please try again.\n")
-
 
 main()

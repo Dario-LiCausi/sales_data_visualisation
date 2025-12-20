@@ -15,9 +15,3 @@ class Extract(ETL):
         except FileNotFoundError as e:
             print(f"{self.file} not found")
             return None
-        
-
-#test
-if __name__ == "__main__":
-    extractor = Extract()
-    extractor.read_txt()

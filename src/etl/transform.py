@@ -1,5 +1,5 @@
 import datetime
-from extract import ETL, Extract
+from etl.extract import ETL, Extract
 
 class Transform(ETL):
     def __init__(self):
@@ -92,17 +92,12 @@ class Transform(ETL):
             if parsed is None:
                 raise ValueError (f"Timestamp not valid: {timestamp!r}")
                 
-            date = parsed.strftime("%d/%m/%Y")
+            date = parsed.strftime("%Y/%m/%d")
             time = parsed.strftime("%H:%M")
 
             t["date"] = date
             t["time"] = time
             t.pop("timestamp")
-        # for t in sales:
-        #     print(t)
         return sales
 
-# test
-# if __name__ == "__main__":
-#     transformer = Transform()
-#     result = transformer.split_datetime()
+
